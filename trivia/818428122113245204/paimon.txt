@@ -1,0 +1,366 @@
+---------------------------------------- ⸢⸥
+--- A Thousand Questions With Paimon ---
+----------------------------------------
+https://game8.co/games/Genshin-Impact/archives/314393
+adapted for no multiple choice
+
+--- Character ---
+Q:Diluc's Passive Talent ⸢Tradition of the Dawn Knight⸥ refunds how many % of the ore used when crafting Claymore-type weapons?
+A:15
+A:Fifteen
+
+Q:Which of the following characters did not have a pet tortoise as a child? Diluc, Jean, Amber
+A:Amber
+
+Q:When Kaeya is in the party, character Stamina Consumption for what is decreased?
+A:Sprinting
+A:Sprint
+A:Running
+A:Run
+
+Q:When Xiangling uses her Elemental Skill, Guoba will deal AoE Pyro DMG how many times?
+A:4
+A:Four
+
+Q:Amber is the Knights of Favonius' only _____?
+A:Outrider
+
+Q:How many members does Benny's Adventure Team have?
+A:1
+A:One
+
+Q:In Jean's Story Quest ⸢Leo Minor Chapter⸥ what is the name of Margaret's lost cat?
+A:Prince
+
+Q:Diona is a bartender at which Mondstadt tavern?
+A:Cat's Tail
+A:Cats Tail
+
+Q:What pet would Qiqi like to have most?
+A:Finch
+
+Q:What is Amber the champion of in Mondstadt?
+A:Gliding
+
+Q:What is Keqing's title in the Liyue Qixing?
+A:Yuheng
+
+Q:Which of the following characters (Kaeya, Mona, Varka, Albedo, Lisa) does not belong to the Knights of Favonius?
+A:Mona
+
+Q:Who is the Eighth Fataui Harbringer?
+A:La Signora
+A:Signora
+
+Q:Who wrote the Favonius Survival Rulebook for Klee?
+A:Kaeya
+
+Q:Xinyan is Liyue Harbor's sole _____ musician?
+A:Rock 'n' Roll
+A:Rock n Roll
+A:Rock and Roll
+
+Q:Which of the following characters (Diluc, Sucrose, Hu Tao, Noelle, Razor) can provide a bonus when forging the Whiteblind?
+A:Diluc
+
+Q:Diluc used to be the Knights of Favonius' _____?
+A:Cavalry Captain
+
+Q:Xingqiu is the second son of Liyue Harbor's _____?
+A:Feiyun Commerce Guild
+
+Q:Sucrose is the assistant of the genius alchemist called?
+A:Albedo
+
+Q:What is Fischl's position at the Adventurers' Guild?
+A:Investigator
+
+Q:What is Beidou's fleet called?
+A:The Crux Fleet
+A:Crux Fleet
+A:The Crux
+A:Crux
+
+--- Talent and Reaction ---
+Q:Which element cannot trigger a Swirl reaction with Anemo?
+A:Geo
+
+Q:Out of the constructs that Zhongli, Ningguang, and the Geo Traveler summon, whose can't be climbed?
+A:Ningguang
+
+Q:⸢Protective Canopy⸥ provides how many % RES against all elements to all party members?
+A:15
+A:Fifteen
+
+Q:The Fortune-Preserving Talisman formed by Qiqi's Passive Talent ⸢A Glimpse Into Arcanum⸥ lasts for how many seconds after being triggered?
+A:6
+A:Six
+
+Q:How many Elemental Resonances can a single party have active at once?
+A:2
+A:Two
+
+Q:How many times will Diona's Elemental Burst heal a character?
+A:6
+A:Six
+
+Q:What is Diona's Constellation called?
+A:Feles
+
+Q:What is the Energy Cost of Diluc's Elemental Burst?
+A:40
+A:Forty
+
+Q:What reaction will occur when a Pyro Elemental Attack is used against Anemo Hypostasis?
+A:Swirl
+
+Q:Which of the following characters (Keqing, Razor, Kaeya, Klee, Xingqiu) will not have their Charged Attacks infused by Cryo DMG by Chongyun's ⸢Spirit Blade: Chonghua's Layered Frost⸥?
+A:Klee
+
+Q:Which of the following Elemental Resonances can reduce the CD of Elemental Skills?
+A:Impetuous Winds
+A:Anemo
+
+Q:What is the maximum number of Electro Sigils that Razor's Elemental Skill can generate?
+A:3
+A:Three
+
+Q:Mona can enter ⸢Illusory Torrent⸥ to create Phantoms but must be near enemies and for how many seconds?
+A:2
+A:Two
+
+Q:How long is Oz's time on the field provided he is only summoned once?
+A:10
+A:Ten
+
+Q:How many Fortify stacks can Zhongli's Passive Talent ⸢Resonant Waves⸥ provide?
+A:5
+A:Five
+
+Q:Which of Noelle's stats affects the DMG absorption of the shield created by her Elemental Skill?
+A:DEF
+A:Defense
+
+Q:Hu Tao's Talent ⸢Flutter By⸥ increases allies' CRIT Rate by 12% for how many seconds?
+A:8
+A:Eight
+
+--- Enemy ---
+Q:Which element is most efficient at removing the empowerment from a Electrohammer Vanguard?
+A:Cryo
+
+Q:How many weak spots does a Ruin Guard have?
+A:2
+A:Two
+
+Q:Which Hilichurl tribes does not appear at Dadaupa Gorge?
+A:Lunar Tribe
+A:Lunar
+
+Q:What is the customary Hilichurl greeting?
+A:Olah
+
+Q:What does it say on the Unusual Hilichurl's mask?
+A:Wei
+
+Q:Which element is the most efficient at breaking the Hydro Abyss Mage's shield?
+A:Cryo
+
+Q:When Hydro is used to extinguish the Hilichurl Berserker's torch, what does the Hilichurl Berserker take out?
+A:Match
+A:Matchstick
+
+--- Boss ---
+Q:How many types of Hydro Mimics can the Oceanid summon in total?
+A:8
+
+Q:What is the name of the Anemo Hypostasis?
+A:Beth
+
+Q:When does the Boreas fight refresh?
+A:Monday
+
+Q:When fighting Electro Hypostasis, which element is unable to decrease the HP of its prisms?
+A:Hydro
+
+Q:Which element, except Cryo, is Boreas immune to?
+A:Anemo
+
+Q:Other than the weak point at the base of the Cryo Regisvine's stem, what is the other weak point?
+A:Corolla
+
+Q:What reaction will occur when an Elemental Attack is used against Anemo Hypostasis:?
+A:Swirl
+
+Q:From  ⸢Memories: Storming Terror I⸥ which Ascension Materials can be obtained other than Vayuda Turquoise and Varunada Lazurite?
+A:Vajrada Amethyst
+
+Q:Primo Geovishaps change their element as the battle progresses. Which element can they not change to?
+A:Anemo
+
+Q:Which element can attack the Pyro Regisvine's weak points most effectively?
+A:Hydro
+
+--- Location and Misc. ---
+Q:Who is the owner of the best pharmacy in Liyue Harbor, Bubu Pharmacy?
+A:Baizhu
+
+Q:Donna, an assistant at Floral Whisper flower store, is infatuated with who?
+A:Diluc
+
+Q:Which location can Musk Reef be reached via a black hole?
+A:Cape Oath
+
+Q:How many Ley Line challenges can exist in Mondstadt and Liyue at any one time?
+A:4
+
+Q:How often does the Rite of Descension, one of Liyue's traditional ceremonies, occur?
+A:Once a year
+A:Yearly
+
+Q:In Liyue, there is a plant that carefully listens to people's singing. What is this plant called?
+A:Glaze Lily
+A:Glaze Lilies
+
+Q:The Karst Crawlers at Mt. Hulao can entrap anyone who steps on them, covering the intruder in amber. Who planted those plants?
+A:Mountain Shaper
+
+Q:Where can the Symbol of Mondstadt's Hero be found?
+A:Windrise
+
+Which flower means "true feeling of the prodigal son" in the language of flowers?
+A:Cecilia
+A:Cecilias
+
+Q:What does "Lupical" mean?
+A:Family
+
+Q:What is the name of the bartender at the Angel's Share?
+A:Charles
+
+Q:What is the name of the hotel where the Fatui diplomats were staying during Mondstadt's Stormterror issue?
+A:Goth Grand Hotel
+
+Q:What is the name of the Night Shift Guard of the Northland Bank?
+A:Nadia
+
+Q:Which location is not covered by the Teyvat Travel Guide?
+A:Wuwang Hill
+
+Q:Which of the Archons was Mora named after?
+A:Geo Archon
+A:Geo
+A:Zhongli
+A:Morax
+
+Q:Which area contains Philanemo Mushrooms (any one of the three)?
+A:Springvale
+A:Dawn Winery
+A:Mondstadt
+
+Q:Where can you buy Violetgrass (any one of the two)?
+A:Wangshu Inn
+A:Bubu Pharmacy
+
+Q:Who wrote the Teyvat Travel Guides?
+A:Alice
+
+Q:What is the signature dish at Wangshu Inn?
+A:Almond Tofu
+
+Q:Which of the following locations (Nantianmen, Starfell Lake, Falcon Coast) does not belong to the Mondstadt region?
+A:Nantianmen
+
+Q:Which of the following plants (Valberry, Sweet Flower, Wolfhook) is not unique to Mondstadt?
+A:Sweet Flower
+
+Q:In Stormterror's Lair, which regional specialty can be found most?
+A:Windwheel Aster
+
+Q:Which place's topography is the result of an Archon hurling giant spears of rock during a time of war?
+A:Guyun Stone Forest
+
+Q:How many works of calligraphy are there in Wangshu Inn?
+A:6
+A:Six
+
+Q:In the current live version of Genshin Impact, what is the maximum quantity of Condensed Resin that can be held at once?
+A:5
+A:Five
+
+Q:Which of the following locations (Brightcrown Canyon, Dihua Marsh, Sal Terrae) does not belong to the Liyue Region?
+A:Brightcrown Canyon
+
+Q:What is Wangshu Inn's cat called?
+A:Wei
+
+Q:During the Windblume Festival event ⸢The Great Bubble Crash⸥ how many bubbles may there be in a row?
+A:5
+A:Five
+
+Q:Which location can you buy Holy Water?
+A:Springvale
+
+Q:Which of the following items (Horsetail, Jueyun Chili, Valberry) does not belong to the Liyue region?
+A:Valberry
+
+Q:Based on what factor does the Fullness meter return to normal from full?
+A:Time
+
+Q:Which character cannot obtain Companionship EXP?
+A:Traveler
+A:Traveller
+A:Aether
+A:Lumine
+
+Q:What is the load limit of a Wind Catcher?
+A:5
+A:Five
+
+Q:At which Liyue Restaurant can you try Xiangling's cooking?
+A:Wanmin Restaurant
+
+Q:In Peculiar Wonderland, how many minigames are available?
+A:8
+A:Eight
+
+Q: Where do the people of Liyue believe that adepti dwell in?
+A:Jueyun Karst
+
+Q:Who is "that red, burny friend" mentioned by Razor?
+A:Klee
+
+Q:How many elements make up the continent of Teyvat?
+A:7
+A:Seven
+
+Q:What is needed to convert elemental Character Ascension Materials to another element?
+A:Dust of Azoth
+
+Q:What is the CD of the Parametric Transformer?
+A:7 days
+A:168 hours
+A:168 hrs
+A:168hrs
+
+Q:What is the maximum number of characters that can be displayed in a friend's Character Showcase?
+A:8
+A:Eight
+
+Q:How many boss enemies are currently recorded in the Adventurer Handbook?
+A:8
+A:Eight
+
+Q:Which of the following methods (Swimming, Sprinting, Jumping) increases the growth rate of the character's Sheer Cold meter?
+A:Swimming
+
+Q:At which Mondstadt Reputation Level is the Anemo Treasure Compass diagram obtained?
+A:6
+A:Six
+
+Q:How many tunes can be played in the Windblume Festival event Ballads of Breeze?
+A:4
+A:Four
+
+Q:Artifacts in the Thundering Fury set can be obtained from which domain?
+A:Midsummer Courtyard

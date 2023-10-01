@@ -1,0 +1,371 @@
+--- Large Monsters ---
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em050_ID.png
+A:Alatreon
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em100_ID.png
+A:Anjanath
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em100_01_ID.png
+A:Fulgur Anjanath
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em123_ID.png
+A:Banbaro
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em042_ID.png
+A:Barioth
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em042_05_ID.png
+A:Frostfang Barioth
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em044_ID.png
+A:Barroth
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em118_ID.png
+A:Bazelgeuse
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em118_05_ID.png
+A:Seething Bazelgeuse
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em121_ID.png
+A:Behemoth
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em122_ID.png
+A:Beotodus
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em063_ID.png
+A:Brachydios
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em063_05_ID.png
+A:Raging Brachydios
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em043_ID.png
+A:Deviljho
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em043_05_ID.png
+A:Savage Deviljho
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em007_ID.png
+A:Diablos
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em007_01_ID.png
+A:Black Diablos
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em116_ID.png
+A:Dodogama
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em013_ID.png
+A:Fatalis
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em080_ID.png
+A:Glavenus
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em080_01_ID.png
+A:Acidic Glavenus
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em112_ID.png
+A:Great Girros
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em101_ID.png
+A:Great Jagras
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em108_ID.png
+A:Jyuratodus
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em011_ID.png
+A:Kirin
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em107_ID.png
+A:Kulu-Ya-Ku
+A:Kulu Ya Ku
+A:KuluYaKu
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em117_ID.png
+A:Kulve Taroth
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em024_ID.png
+A:Kushala Daora
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em036_ID.png
+A:Lavasioth
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em111_ID.png
+A:Legiana
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em111_05_ID.png
+A:Shrieking Legiana
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em127_ID.png
+A:Leshen
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em127_01_ID.png
+A:Ancient Leshen
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em026_ID.png
+A:Lunastra
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em125_ID.png
+A:Namielle
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em037_ID.png
+A:Nargacuga
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em103_ID.png
+A:Nergigante
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em103_05_ID.png
+A:Ruiner Nergigante
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em113_ID.png
+A:Odogaron
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/icon/em113_01_ID.png
+A:Ebony Odogaron
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em110_ID.png
+A:Paolumu
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em110_01_ID.png
+A:Nightshade Paolumu
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em102_ID.png
+A:Pukei-Pukei
+A:Pukei Pukei
+A:PukeiPukei
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em102_01_ID.png
+A:Coral Pukei-Pukei
+A:Coral Pukei Pukei
+A:Coral PukeiPukei
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em114_ID.png
+A:Radobaan
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em023_ID.png
+A:Rajang
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em023_05_ID.png
+A:Furious Rajang
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em002_ID.png
+A:Rathalos
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em002_01_ID.png
+A:Azure Rathalos
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em002_02_ID.png
+A:Silver Rathalos
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em001_ID.png
+A:Rathian
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em001_01_ID.png
+A:Pink Rathian
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em001_02_ID.png
+A:Gold Rathian
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em104_ID.png
+A:Safi'jiiva
+A:Safi Jiiva
+A:SafiJiiva
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em126_ID.png
+A:Shara Ishvalda
+A:SharaIshvalda
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em027_ID.png
+A:Teostra
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em032_ID.png
+A:Tigrex
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em032_01_ID.png
+A:Brute Tigrex
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em109_ID.png
+A:Tobi-Kadachi
+A:Tobi Kadachi
+A:TobiKadachi
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em109_01_ID.png
+A:Viper Tobi-Kadachi
+A:Viper Tobi Kadachi
+A:Viper TobiKadachi
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em120_ID.png
+A:Tzitzi-Ya-Ku
+A:Tzitzi Ya Ku
+A:TzitziYaKu
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em045_ID.png
+A:Uragaan
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em115_ID.png
+A:Vaal Hazak
+A:VaalHazak
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em115_05_ID.png
+A:Blackveil Vaal Hazak
+A:Blackveil VaalHazak
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em124_ID.png
+A:Velkhana
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em105_ID.png
+A:Xeno'jiiva
+A:Xeno Jiiva
+A:XenoJiiva
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em018_ID.png
+A:Yian Garuga
+A:YianGaruga
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em018_05_ID.png
+A:Scarred Yian Garuga
+A:Scarred YianGaruga
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em057_ID.png
+A:Zinogre
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em057_01_ID.png
+A:Stygian Zinogre
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em106_ID.png
+A:Zorah Magdoras
+A:ZorahMagdoras
+
+--- Small Monsters ---
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems016_ID.png
+A:Anteka
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems002_ID.png
+A:Apceros
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems001_ID.png
+A:Aptonoth
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems055_ID.png
+A:Barnos
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems061_01_ID.png
+A:Boaboa
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems064_ID.png
+A:Cortos
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems061_ID.png
+A:Gajalaka
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems029_ID.png
+A:Gajau
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems056_ID.png
+A:Girros
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems005_01_ID.png
+A:Hornetaur
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems049_ID.png
+A:Jagras
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems003_ID.png
+A:Kelbi
+
+Q:Who's that monster? (specify sex)
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems051_05_ID.png
+A:Female Kestodon
+Q:Who's that monster? (specify sex)
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems051_ID.png
+A:Male Kestodon
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems050_ID.png
+A:Mernos
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems004_ID.png
+A:Mosswine
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems059_ID.png
+A:Noios
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems014_ID.png
+A:Popo
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems053_ID.png
+A:Raphinos
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems054_ID.png
+A:Shamos
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems006_ID.png
+A:Vespoid
+
+Q:Who's that monster?
+I:https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems063_ID.png
+A:Wulg

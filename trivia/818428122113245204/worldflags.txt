@@ -1,0 +1,643 @@
+AUTHOR: Volhosis
+Q:What country is represented by this flag?
+I:https://i.imgur.com/00SGRuz.png
+A:Myanmar
+A:Burma
+Q:What country is represented by this flag?
+I:https://i.imgur.com/02a0Xre.png
+A:Croatia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/18t0zMj.png
+A:Brunei
+Q:What country is represented by this flag?
+I:https://i.imgur.com/1KBFTgX.png
+A:Sierra Leone
+Q:What country is represented by this flag?
+I:https://i.imgur.com/1VsVFYK.png
+A:Maldives
+Q:What country is represented by this flag?
+I:https://i.imgur.com/1dQ8NBz.png
+A:Brazil
+Q:What country is represented by this flag?
+I:https://i.imgur.com/1o8hBla.png
+A:Mauritania
+Q:What country is represented by this flag?
+I:https://i.imgur.com/1tH3blw.png
+A:Denmark
+Q:What country is represented by this flag?
+I:https://i.imgur.com/222q836.png
+A:Libya
+Q:What country is represented by this flag?
+I:https://i.imgur.com/2Wxbjv5.png
+A:South Korea
+Q:What country is represented by this flag?
+I:https://i.imgur.com/3H3Lfat.png
+A:Republic of the Philippines
+A:Philippines
+Q:What country is represented by this flag?
+I:https://i.imgur.com/3KXMyBS.png
+A:Georgia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/3LN2uSA.png
+A:Eritrea
+Q:What country is represented by this flag?
+I:https://i.imgur.com/3rcX6U2.png
+A:Portugal
+Q:What country is represented by this flag?
+I:https://i.imgur.com/3vTYQpq.png
+A:Bahamas
+Q:What country is represented by this flag?
+I:https://i.imgur.com/4ExD2Ub.png
+A:Yemen
+Q:What country is represented by this flag?
+I:https://i.imgur.com/524Qfs3.png
+A:Spain
+Q:What country is represented by this flag?
+I:https://i.imgur.com/5E9Hkzb.png
+A:Bhutan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/5Gr6Eyw.png
+A:Turkmenistan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/5IRTv2m.png
+A:Cuba
+Q:What country is represented by this flag?
+I:https://i.imgur.com/5NbPMRh.png
+A:Belarus
+Q:What country is represented by this flag?
+I:https://i.imgur.com/5TEduqP.png
+A:United Kingdom
+A:UK
+A:GB
+A:Great Britain
+A:Britain
+Q:What country is represented by this flag?
+I:https://i.imgur.com/6UkAfly.png
+A:Kenya
+Q:What country is represented by this flag?
+I:https://i.imgur.com/7qSsp7Z.png
+A:Samoa
+Q:What country is represented by this flag?
+I:https://i.imgur.com/7weskDc.png
+A:North Macedonia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/8F5aqVG.png
+A:Germany
+Q:What country is represented by this flag?
+I:https://i.imgur.com/8LFhQVn.png
+A:North Korea
+A:People's Republic of Korea
+Q:What country is represented by this flag?
+I:https://i.imgur.com/8OzbswS.png
+A:Armenia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/T91TSYR.png
+A:São Tomé and Príncipe
+A:Sao Tome and Principe
+A:Sao Tome
+Q:What country is represented by this flag?
+I:https://i.imgur.com/AMccj7Q.png
+A:Venezuela
+Q:What country is represented by this flag?
+I:https://i.imgur.com/AVX1jHf.png
+A:Japan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Acc9xZt.png
+A:Poland
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Ag2D0nx.png
+A:Sri Lanka
+Q:What country is represented by this flag?
+I:https://i.imgur.com/AkfQ9aV.png
+A:Turkey
+Q:What country is represented by this flag?
+I:https://i.imgur.com/B5JXE6s.png
+A:Zimbabwe
+Q:What country is represented by this flag?
+I:https://i.imgur.com/BTYy0J0.png
+A:Lebanon
+Q:What country is represented by this flag?
+I:https://i.imgur.com/BgdKIb2.png
+A:Mozambique
+Q:What country is represented by this flag?
+I:https://i.imgur.com/BqwHKYv.png
+A:Malta
+A:Hvid RÃ¸d
+Q:What country is represented by this flag?
+I:https://i.imgur.com/C3kWeQw.png
+A:Bahrain
+Q:What country is represented by this flag?
+I:https://i.imgur.com/CEetl8W.png
+A:Peru
+Q:What country is represented by this flag?
+I:https://i.imgur.com/CXQK227.png
+A:Morocco
+Q:What country is represented by this flag?
+I:https://i.imgur.com/CpPkgpU.png
+A:Cabo Verde
+A:Cape Verde
+Q:What country is represented by this flag?
+I:https://i.imgur.com/DGQwjWZ.png
+A:Suriname
+Q:What country is represented by this flag?
+I:https://i.imgur.com/DeINlqb.png
+A:Niger
+Q:What country is represented by this flag?
+I:https://i.imgur.com/DhviZ7r.png
+A:Kiribati
+Q:What country is represented by this flag?
+I:https://i.imgur.com/FQyZE9l.png
+A:Czech Republic
+A:Czechia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/FoEC4xl.png
+A:Italy
+Q:What country is represented by this flag?
+I:https://i.imgur.com/FxoBzcY.png
+A:Tajikistan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/GUUtDv6.png
+A:Nauru
+Q:What country is represented by this flag?
+I:https://i.imgur.com/H230Is8.png
+A:Switzerland
+Q:What country is represented by this flag?
+I:https://i.imgur.com/HZyUD1Y.png
+A:Australia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/HsyQ0WU.png
+A:Bangladesh
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Il8Gkxe.png
+A:Kazakhstan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/J20AEe0.png
+A:Lesotho
+Q:What country is represented by this flag?
+I:https://i.imgur.com/J3xd0eK.png
+A:Colombia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/KejcQ5w.png
+A:Tuvalu
+Q:What country is represented by this flag?
+I:https://i.imgur.com/KxMALzR.png
+A:Serbia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Kytf2Mm.png
+A:Romania
+Q:What country is represented by this flag?
+I:https://i.imgur.com/LHZxJCE.png
+A:Azerbaijan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/LPm5b84.png
+A:Israel
+Q:What country is represented by this flag?
+I:https://i.imgur.com/LbQj8rK.png
+A:Austria
+Q:What country is represented by this flag?
+I:https://i.imgur.com/LgBw3JD.png
+A:Gambia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/LgwBULL.png
+A:Canada
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Ls07jJq.png
+A:Democratic Republic of the Congo
+A:Dem. Rep. of Congo
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Ma1ivs0.png
+A:Liberia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/MrAUl3e.png
+A:Jamaica
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Mtz46LH.png
+A:Iceland
+Q:What country is represented by this flag?
+I:https://i.imgur.com/NGR2LNi.png
+A:Senegal
+Q:What country is represented by this flag?
+I:https://i.imgur.com/NMMpFNh.png
+A:Seychelles
+Q:What country is represented by this flag?
+I:https://i.imgur.com/OJ3jk8h.png
+A:Russia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/OS83E0Y.png
+A:Comoros
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Os7kijz.png
+A:Mexico
+Q:What country is represented by this flag?
+I:https://i.imgur.com/PJpxYhW.png
+A:China
+A:People's Republic of China
+Q:What country is represented by this flag?
+I:https://i.imgur.com/PTjhJ38.png
+A:Zambia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/PmWAhic.png
+A:Honduras
+Q:What country is represented by this flag?
+I:https://i.imgur.com/QclX66O.png
+A:Pakistan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/QpwAZCH.png
+A:Belgium
+Q:What country is represented by this flag?
+I:https://i.imgur.com/R36hcy9.png
+A:Cote d'Ivoire
+A:Ivory Coast
+Q:What country is represented by this flag?
+I:https://i.imgur.com/RLgBmmx.png
+A:Finland
+Q:What country is represented by this flag?
+I:https://i.imgur.com/RTVaeeT.png
+A:Jordan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/RgnmHkX.png
+A:Chile
+Q:What country is represented by this flag?
+I:https://i.imgur.com/RhbzmE9.png
+A:Guinea-Bissau
+Q:What country is represented by this flag?
+I:https://i.imgur.com/RpLNeK5.png
+A:Ecuador
+Q:What country is represented by this flag?
+I:https://i.imgur.com/SUTmKC3.png
+A:France
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Sd5FQj9.png
+A:Liechtenstein
+Q:What country is represented by this flag?
+I:https://i.imgur.com/SiMqs1f.png
+A:Vanuatu
+Q:What country is represented by this flag?
+I:https://i.imgur.com/THNCPFu.png
+A:Rwanda
+Q:What country is represented by this flag?
+I:https://i.imgur.com/TPz5Gaj.png
+A:Montenegro
+Q:What country is represented by this flag?
+I:https://i.imgur.com/UN8GHa4.png
+A:Haiti
+Q:What country is represented by this flag?
+I:https://i.imgur.com/UzHuET8.png
+A:India
+Q:What country is represented by this flag?
+I:https://i.imgur.com/V0y3m1h.png
+A:Malawi
+Q:What country is represented by this flag?
+I:https://i.imgur.com/V3IdT58.png
+A:Slovenia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/VZLff6p.png
+A:Chad
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Vbr5Tam.png
+A:Panama
+Q:What country is represented by this flag?
+I:https://i.imgur.com/VeiCyLB.png
+A:Namibia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/WElCUGn.png
+A:New Zealand
+Q:What country is represented by this flag?
+I:https://i.imgur.com/WJYeKvC.png
+A:Ukraine
+Q:What country is represented by this flag?
+I:https://i.imgur.com/WSCunIE.png
+A:Vatican City
+A:Vatican
+Q:What country is represented by this flag?
+I:https://i.imgur.com/WjFxXYM.png
+A:Iran
+Q:What country is represented by this flag?
+I:https://i.imgur.com/WtPvwLD.png
+A:Costa Rica
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Xd2tgrz.png
+A:Guyana
+Q:What country is represented by this flag?
+I:https://i.imgur.com/XoL54ql.png
+A:Dominica
+Q:What country is represented by this flag?
+I:https://i.imgur.com/YUA6oU2.png
+A:Saudi Arabia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/YaA07yt.png
+A:Belize
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Yvry0ap.png
+A:Central African Republic
+Q:What country is represented by this flag?
+I:https://i.imgur.com/ZZJK5He.png
+A:Republic of the Congo
+A:Congo
+A:Republic of Congo
+Q:What country is represented by this flag?
+I:https://i.imgur.com/ZnhOID0.png
+A:Lithuania
+Q:What country is represented by this flag?
+I:https://i.imgur.com/Zphmsnu.png
+A:San Marino
+Q:What country is represented by this flag?
+I:https://i.imgur.com/b9STlvA.png
+A:Micronesia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/bMd1cb8.png
+A:Saint Vincent and the Grenadines
+A:St Vincent and the Grenadines
+A:St Vincent
+A:Grenadines
+Q:What country is represented by this flag?
+I:https://i.imgur.com/bRF5q3c.png
+A:Antigua and Barbuda
+A:Antigua
+A:Barbuda
+Q:What country is represented by this flag?
+I:https://i.imgur.com/bWDivLK.png
+A:Taiwan
+A:Republic of China
+Q:What country is represented by this flag?
+I:https://i.imgur.com/begWgBT.png
+A:Djibouti
+Q:What country is represented by this flag?
+I:https://i.imgur.com/biZHNNQ.png
+A:Singapore
+Q:What country is represented by this flag?
+I:https://i.imgur.com/bjtyCp5.png
+A:Mauritius
+Q:What country is represented by this flag?
+I:https://i.imgur.com/chOrWHr.png
+A:Indonesia
+A:Monaco
+Q:What country is represented by this flag?
+I:https://i.imgur.com/d8hPELu.png
+A:Latvia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/dBo8TPh.png
+A:Grenada
+Q:What country is represented by this flag?
+I:https://i.imgur.com/dLexEX4.png
+A:Cambodia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/dPkirdh.png
+A:Guatemala
+Q:What country is represented by this flag?
+I:https://i.imgur.com/dZe1Bd4.png
+A:Ethiopia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/dmlTGO4.png
+A:Nicaragua
+Q:What country is represented by this flag?
+I:https://i.imgur.com/duJRErG.png
+A:Saint Kitts and Nevis
+A:Saint Kitts
+A:St Kitts
+A:St Kitts and Nevis
+Q:What country is represented by this flag?
+I:https://i.imgur.com/eDocaIL.png
+A:Sudan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/eMO7Y0z.png
+A:Burkina Faso
+Q:What country is represented by this flag?
+I:https://i.imgur.com/eT28D3B.png
+A:Bulgaria
+Q:What country is represented by this flag?
+I:https://i.imgur.com/f8OOur7.png
+A:Somalia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/gGhBri9.png
+A:Sweden
+Q:What country is represented by this flag?
+I:https://i.imgur.com/gI250YG.png
+A:Thailand
+Q:What country is represented by this flag?
+I:https://i.imgur.com/h6qegtn.png
+A:Bolivia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/h9YUraD.png
+A:Uruguay
+Q:What country is represented by this flag?
+I:https://i.imgur.com/hY4fbYf.png
+A:Tanzania
+Q:What country is represented by this flag?
+I:https://i.imgur.com/hbJ4J2A.png
+A:Nigeria
+Q:What country is represented by this flag?
+I:https://i.imgur.com/hiNRJUm.png
+A:South Africa
+A:Republic of South Africa
+Q:What country is represented by this flag?
+I:https://i.imgur.com/hr9515B.png
+A:Equatorial Guinea
+Q:What country is represented by this flag?
+I:https://i.imgur.com/hy3crgu.png
+A:Benin
+Q:What country is represented by this flag?
+I:https://i.imgur.com/i4srkYW.png
+A:Norway
+Q:What country is represented by this flag?
+I:https://i.imgur.com/iO3sAPy.png
+A:Madagascar
+Q:What country is represented by this flag?
+I:https://i.imgur.com/iT92sev.png
+A:United States of America
+A:USA
+A:U.S.A
+A:US
+A:U.S.
+A:United States
+Q:What country is represented by this flag?
+I:https://i.imgur.com/ins1BsE.png
+A:Laos
+Q:What country is represented by this flag?
+I:https://i.imgur.com/j7Ig3Bu.png
+A:Moldova
+Q:What country is represented by this flag?
+I:https://i.imgur.com/jHWTNbi.png
+A:Fiji
+Q:What country is represented by this flag?
+I:https://i.imgur.com/jKRkoe5.png
+A:Paraguay
+Q:What country is represented by this flag?
+I:https://i.imgur.com/jXpxd9Q.png
+A:Trinidad and Tobago
+A:Trinidad & Tobago
+A:Trinidad
+A:Tobago
+Q:What country is represented by this flag?
+I:https://i.imgur.com/jwBaTxq.png
+A:Tunisia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/jwR0mTj.png
+A:Luxembourg
+Q:What country is represented by this flag?
+I:https://i.imgur.com/kB3rCke.png
+A:Andorra
+Q:What country is represented by this flag?
+I:https://i.imgur.com/kRM1chU.png
+A:Botswana
+Q:What country is represented by this flag?
+I:https://i.imgur.com/kj2Rl6U.png
+A:Togo
+Q:What country is represented by this flag?
+I:https://i.imgur.com/kxgws8z.png
+A:Burundi
+Q:What country is represented by this flag?
+I:https://i.imgur.com/l6TGY4c.png
+A:Bosnia and Herzegovina
+A:Bosnia
+A:Herzegovina
+Q:What country is represented by this flag?
+I:https://i.imgur.com/li2uTFU.png
+A:Timor-Leste
+A:Timor
+A:Timor Leste
+A:East Timor
+Q:What country is represented by this flag?
+I:https://i.imgur.com/lkJ72mO.png
+A:Gabon
+Q:What country is represented by this flag?
+I:https://i.imgur.com/mAgkfeH.png
+A:Nepal
+Q:What country is represented by this flag?
+I:https://i.imgur.com/mQvZHZH.png
+A:Dominican Republic
+Q:What country is represented by this flag?
+I:https://i.imgur.com/mbWf2iq.png
+A:Ghana
+Q:What country is represented by this flag?
+I:https://i.imgur.com/mdyAHBg.png
+A:Greece
+Q:What country is represented by this flag?
+I:https://i.imgur.com/nKgkQci.png
+A:South Sudan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/nieDYXN.png
+A:Malaysia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/njfbYnM.png
+A:Qatar
+Q:What country is represented by this flag?
+I:https://i.imgur.com/o8tYKMr.png
+A:Argentina
+Q:What country is represented by this flag?
+I:https://i.imgur.com/oMLG5ri.png
+A:Mongolia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/pATL0sO.png
+A:Saint Lucia
+A:St Lucia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/qGrb426.png
+A:Uganda
+Q:What country is represented by this flag?
+I:https://i.imgur.com/qNyJQ5d.png
+A:The Netherlands
+A:Netherlands
+A:Holland
+Q:What country is represented by this flag?
+I:https://i.imgur.com/qZEuijY.png
+A:Ireland
+A:Republic of Ireland
+A:ROI
+A:R.O.I.
+Q:What country is represented by this flag?
+I:https://i.imgur.com/qtDaw2f.png
+A:Western Sahara
+Q:What country is represented by this flag?
+I:https://i.imgur.com/qvcmPb7.png
+A:Albania
+Q:What country is represented by this flag?
+I:https://i.imgur.com/rbLk4Kr.png
+A:Tonga
+Q:What country is represented by this flag?
+I:https://i.imgur.com/re1GuyK.png
+A:Mali
+Q:What country is represented by this flag?
+I:https://i.imgur.com/rmUviUv.png
+A:El Salvador
+Q:What country is represented by this flag?
+I:https://i.imgur.com/svMrHDC.png
+A:Egypt
+Q:What country is represented by this flag?
+I:https://i.imgur.com/t8qnUGP.png
+A:Kosovo
+Q:What country is represented by this flag?
+I:https://i.imgur.com/tOVpE44.png
+A:Slovakia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/ttIhE04.png
+A:Oman
+Q:What country is represented by this flag?
+I:https://i.imgur.com/uW7bNGe.png
+A:United Arab Emirates
+A:UAE
+A:U.A.E.
+Q:What country is represented by this flag?
+I:https://i.imgur.com/uZ5WnBU.png
+A:Angola
+Q:What country is represented by this flag?
+I:https://i.imgur.com/uaJ6QQD.png
+A:Guinea
+Q:What country is represented by this flag?
+I:https://i.imgur.com/ub1Krgd.png
+A:Barbados
+Q:What country is represented by this flag?
+I:https://i.imgur.com/vBZvx28.png
+A:Cameroon
+Q:What country is represented by this flag?
+I:https://i.imgur.com/vqtZ8V4.png
+A:Kyrgyzstan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/w7y4yrx.png
+A:Uzbekistan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/wG5ipco.png
+A:Vietnam
+Q:What country is represented by this flag?
+I:https://i.imgur.com/wKXsrWD.png
+A:Afghanistan
+Q:What country is represented by this flag?
+I:https://i.imgur.com/weIW0md.png
+A:Palau
+A:Palaos Bandera
+A:Bandera de Palaos
+Q:What country is represented by this flag?
+I:https://i.imgur.com/wr0KhwF.png
+A:Cyprus
+Q:What country is represented by this flag?
+I:https://i.imgur.com/wwxWE9U.png
+A:Solomon Islands
+A:Solomon
+Q:What country is represented by this flag?
+I:https://i.imgur.com/xhVuaYj.png
+A:eSwatini
+A:Swaziland
+Q:What country is represented by this flag?
+I:https://i.imgur.com/y5PJwXq.png
+A:Papua New Guinea
+Q:What country is represented by this flag?
+I:https://i.imgur.com/y7JWUm0.png
+A:Iraq
+Q:What country is represented by this flag?
+I:https://i.imgur.com/yKhcXV9.png
+A:Kuwait
+Q:What country is represented by this flag?
+I:https://i.imgur.com/ykTTjRD.png
+A:Estonia
+Q:What country is represented by this flag?
+I:https://i.imgur.com/yt02VIz.png
+A:Syria
+Q:What country is represented by this flag?
+I:https://i.imgur.com/zBYYxpN.png
+A:Marshall Islands
+Q:What country is represented by this flag?
+I:https://i.imgur.com/zLuBq1l.png
+A:Algeria
+Q:What country is represented by this flag?
+I:https://i.imgur.com/zTOVfhf.png
+A:Hungary

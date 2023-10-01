@@ -1,0 +1,640 @@
+AUTHOR: Volhosis
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/09dDNah.png
+A:Egypt
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/0iRnWAj.png
+A:Papua New Guinea
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/0oN9MFH.png
+A:Central African Republic
+A:Car
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/14nAY83.png
+A:Mongolia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/15fLQVC.png
+A:Ghana
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/19AMqVD.png
+A:Finland
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/1GT6807.png
+A:Guinea
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/1MHPIUv.png
+A:São Tomé and Príncipe
+A:Sao Tome and Principe
+A:Sao Tome
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/1xVJiLb.png
+A:Nepal
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/21wXDZ6.png
+A:Kazakhstan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/2K0IRgL.png
+A:Bosnia and Herzegovina
+A:Bosnia-Herzegovina
+A:Bosnia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/2uGKX9L.png
+A:Palau
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/2uS8GOx.png
+A:Tajikistan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/39SLm9G.png
+A:Iraq
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/3OagNHl.png
+A:Democratic Republic of the Congo
+A:Democratic Republic of Congo
+A:DRC
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/3kgZ94y.png
+A:Belgium
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/3nivCwN.png
+A:Mauritius
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/3vcsCuu.png
+A:United Arab Emirates
+A:UAE
+A:U.A.E.
+A:U.A.E
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/3xcUQ1X.png
+A:Saint Kitts and Nevis
+A:St. Kitts and Nevis
+A:St Kitts and Nevis
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/3xyML6S.png
+A:San Marino
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/4Gj2aj7.png
+A:Luxembourg
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/4Owvdkh.png
+A:Nicaragua
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/4kPlmgp.png
+A:Rwanda
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/4qUSgcH.png
+A:Yemen
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/5WjbgUb.png
+A:Saudi Arabia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/5el1VgN.png
+A:United Kingdom
+A:UK
+A:U.K.
+A:U.K
+A:Britain
+A:The United Kingdom of Great Britain and Northern Ireland
+A:the uk
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/5m63w4b.png
+A:Italy
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/68B62BL.png
+A:The Netherlands
+A:Netherlands
+A:Holland
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/6EiH9ia.png
+A:Kenya
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/6QzQjXb.png
+A:Chile
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/78BVep1.png
+A:Laos
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/7DXx3lu.png
+A:Antigua and Barbuda
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/7OqhNc4.png
+A:Peru
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/7XrAS6L.png
+A:Swaziland
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/837JSrU.png
+A:Kosovo
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/8KwkBwG.png
+A:Tuvalu
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/8Q88Bgd.png
+A:Ireland
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/91UkD8N.png
+A:Djibouti
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/9RWwaqH.png
+A:Algeria
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/9wPtgE9.png
+A:Syria
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/AKegLx8.png
+A:Sierra Leone
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ATkQzc0.png
+A:Ecuador
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/B2lSacI.png
+A:Benin
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/BTErr4h.png
+A:Qatar
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/CK2BgyY.png
+A:South Africa
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/CVIIiJk.png
+A:Belarus
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ClAoPEy.png
+A:Switzerland
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/CtgmsgG.png
+A:Indonesia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/CvCiNbs.png
+A:Serbia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/D39yjB7.png
+A:Tunisia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Df9bPdT.png
+A:Burundi
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/E6lQFbg.png
+A:Greece
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/EE9jicV.png
+A:Tonga
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/EQSChbH.png
+A:North Macedonia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/EdETzhx.png
+A:Paraguay
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/FHCjY5w.png
+A:Kuwait
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/G3LOenX.png
+A:Armenia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/G6wI2vs.png
+A:Libya
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/GFiOrdK.png
+A:Colombia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/GvlNpbw.png
+A:Iran
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Gxo6qKW.png
+A:North Korea
+A:Democratic People's Republic of Korea
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/J0RBGiH.png
+A:Turkey
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/JebFraA.png
+A:Moldova
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Kb7Stmu.png
+A:Georgia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Knkr0a9.png
+A:France
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Lolt4Ap.png
+A:The Bahamas
+A:Bahamas
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/MQAQnR3.png
+A:Venezuela
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Mc08OmO.png
+A:Taiwan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Msr7M5X.png
+A:Suriname
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/NSIImmk.png
+A:Saint Lucia
+A:St. Lucia
+A:St Lucia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/NVNX75x.png
+A:Malawi
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Nb6JWmK.png
+A:Cuba
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/OOOKn0t.png
+A:Uganda
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/OOfkrcw.png
+A:Ukraine
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/OasYVi7.png
+A:Fiji
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/OrELojX.png
+A:Cabo Verde
+A:Cape Verde
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/PI437lH.png
+A:Poland
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/PIPWOaE.png
+A:Gabon
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/QLqUluS.png
+A:Cyprus
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/QdfTUTy.png
+A:Togo
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Qvcygs3.png
+A:Turkmenistan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/RHCDHts.png
+A:Liechtenstein
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/RfS5v01.png
+A:Vanuatu
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/RzNq1Xy.png
+A:Malaysia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/S9DpuSt.png
+A:Vatican City
+A:Holy See
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/S9Gs60x.png
+A:Jordan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/SoraDd9.png
+A:Bangladesh
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/TJt5Up0.png
+A:Bhutan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/U1CTmUQ.png
+A:Malta
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/U1yIGyq.png
+A:Nauru
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/UJDYieb.png
+A:Austria
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ULnrMWZ.png
+A:Uruguay
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/UTGGdgf.png
+A:Bulgaria
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/UammPKQ.png
+A:Jamaica
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/UghsBw6.png
+A:USA
+A:U.S.A.
+A:U.S.A
+A:United States of America
+A:America
+A:United States
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/W0OhBRP.png
+A:Tanzania
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/W9z0vCV.png
+A:Iceland
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/WwhW48O.png
+A:Zambia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/X8p2uxu.png
+A:Romania
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/XBzAfST.png
+A:Grenada
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/XRE6MfO.png
+A:Trinidad and Tobago
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/XqSTmsr.png
+A:Niger
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/YOBQKuj.png
+A:Comoros
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/YUtwP7k.png
+A:Guatemala
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/YVpXfK9.png
+A:Brunei
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Yw4rHyu.png
+A:Namibia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/YxDKxsY.png
+A:Estonia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Z25ne9q.png
+A:Japan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/Z4fBWUQ.png
+A:Cambodia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ZRSfjjh.png
+A:Slovakia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ZVwazGD.png
+A:Philippines
+A:The Philippines
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/a3iNPku.png
+A:The Gambia
+A:Gambia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/aOwReBL.png
+A:Bahrain
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ajxvx35.png
+A:Azerbaijan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/alsunVI.png
+A:Equatorial Guinea
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/anbGYX6.png
+A:Eritrea
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ayWNbsX.png
+A:Latvia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/b7k0qRD.png
+A:Senegal
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/bIntHEX.png
+A:Vietnam
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/bIywJac.png
+A:Mauritania
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/bQ5oH2c.png
+A:Australia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/bbMyyZ3.png
+A:Sudan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/c5HtaHJ.png
+A:Canada
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/c6xcsvO.png
+A:India
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/cy5v0Z1.png
+A:South Korea
+A:Republic of Korea
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/cyeXSdW.png
+A:Sri Lanka
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/dfyqbj6.png
+A:Russia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/dsdpFLv.png
+A:Portugal
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ec33YRO.png
+A:Guinea-Bissau
+A:Guinea Bissau
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/erHBEQe.png
+A:Myanmar
+A:Burma
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/f7VQNrF.png
+A:Slovenia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/fJZatC4.png
+A:Mozambique
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/fSZjTZk.png
+A:Nigeria
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/faZodc6.png
+A:Mali
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/gB2Sa2K.png
+A:Guyana
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/gYXvpLp.png
+A:Somalia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/gr5BLLs.png
+A:Chad
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/gxGbZhB.png
+A:China
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/h63XZgg.png
+A:Bolivia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/h8nW7MC.png
+A:Zimbabwe
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/hgwQJbw.png
+A:Kyrgyzstan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/hoITwnY.png
+A:Denmark
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/iDv5aUS.png
+A:Belize
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/iNmZn0K.png
+A:Haiti
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/iOjKozb.png
+A:Lebanon
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/iYM9ofo.png
+A:Dominican Republic
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ii5rr9F.png
+A:Samoa
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/j27MKzM.png
+A:Kiribati
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/j2Mhnuo.png
+A:Spain
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/jEafSQr.png
+A:Dominica
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/jxPvm6J.png
+A:Marshall Islands
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/kBdjnEv.png
+A:Mexico
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/kHtsSx9.png
+A:Cote d'Ivoire
+A:Ivory Coast
+A:Cote Divoire
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/lHMAntb.png
+A:Pakistan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/lIIYtBD.png
+A:Montenegro
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/lLbmaym.png
+A:Solomon Islands
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/m1aPu8l.png
+A:Panama
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/mFhyd3u.png
+A:Sweden
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/mM0RJG0.png
+A:Croatia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/mUXpeOu.png
+A:Germany
+A:Deutschland
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/mWfKGSn.png
+A:Burkina Faso
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/mYOwWRb.png
+A:Brazil
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/mcDugwB.png
+A:Costa Rica
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/nlzjaBI.png
+A:Afghanistan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/oSSaB7a.png
+A:Norway
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ofiwdPY.png
+A:East-Timor
+A:Timor-Leste
+A:East Timor
+A:Timor Leste
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/pQmzZ6S.png
+A:Singapore
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/pZXybV8.png
+A:Morocco
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ph52UhZ.png
+A:St Vincent
+A:St. Vincent
+A:Saint Vincent
+A:Saint Vincent and the Grenadines
+A:St. Vincent and the Grenadines
+A:St Vincent and the Grenadines
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/piTTm6z.png
+A:Argentina
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/q7TKXaJ.png
+A:Monaco
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/qMZ1AHl.png
+A:Albania
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/qR9uVfe.png
+A:Liberia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/qSwv9RO.png
+A:Lesotho
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/qcnevI9.png
+A:Angola
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/qoA2rYB.png
+A:Andorra
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/qqKx7hp.png
+A:South Sudan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/qssRZBv.png
+A:Federated States of Micronesia
+A:Micronesia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/rGAxHB7.png
+A:Barbados
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/rRTyhTj.png
+A:Honduras
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/rkjXq7k.png
+A:Thailand
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/s88SrzP.png
+A:Hungary
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/sU7T64y.png
+A:Czech Republic
+A:Czechia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/tX9BQ5V.png
+A:Oman
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/tv8zqCC.png
+A:Republic of Congo
+A:Republic of the Congo
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/twTqP40.png
+A:Ethiopia
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/uazYsHm.png
+A:El Salvador
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/ujCmF8i.png
+A:Botswana
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/v7l7s3H.png
+A:Lithuania
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/wXiBoYO.png
+A:New Zealand
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/whUGoHr.png
+A:Uzbekistan
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/wqm7dx5.png
+A:Seychelles
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/yF1LWYJ.png
+A:Israel
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/zChCrog.png
+A:Maldives
+A:Republic of Maldives
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/zKslICy.png
+A:Cameroon
+Q:What country is highlighted on this map?
+I:https://i.imgur.com/zRYwJsw.png
+A:Madagascar

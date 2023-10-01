@@ -1,0 +1,459 @@
+AUTHOR: JennJenn
+Q:Name one of the capitals of South Africa?
+A:Pretoria
+A:Cape Town
+A:capetown
+A:Bloemfontein
+Name one of Bolivia's capitals?
+A:La Paz
+A:Sucre
+Q:What is the capital of Afghanistan?
+A:Kabul
+Q:What is the capital of Albania?
+A:Tirana
+Q:What is the capital of Algeria?
+A:Algiers
+Q:What is the capital of Andorra?
+A:Andorra la Vella
+Q:What is the capital of Angola?
+A:Luanda
+Q:What is the capital of Antigua and Barbuda?
+A:Saint John's
+A:saint johns
+A:st johns
+A:st. johns
+A:st john's
+A:st. john's
+A:saintjohns
+A:saintjohn's
+A:stjohns
+A:stjohn's
+A:st.johns
+A:st.john's
+Q:What is the capital of Argentina?
+A:Buenos Aires
+Q:What is the capital of Armenia?
+A:Yerevan
+Q:What is the capital of Australia?
+A:Canberra
+Q:What is the capital of Austria?
+A:Vienna
+Q:What is the capital of Azerbaijan?
+A:Baku
+Q:What is the capital of Bahamas?
+A:Nassau
+Q:What is the capital of Bahrain?
+A:Manama
+Q:What is the capital of Bangladesh?
+A:Dhaka
+Q:What is the capital of Barbados?
+A:Bridgetown
+Q:What is the capital of Belarus?
+A:Minsk
+Q:What is the capital of Belgium?
+A:Brussels
+Q:What is the capital of Belize?
+A:Belmopan
+Q:What is the capital of Benin?
+A:Porto-Novo
+A:porto novo
+A:portonovo
+Q:What is the capital of Bhutan?
+A:Thimphu
+Q:What is the capital of Bosnia and Herzegovina?
+A:Sarajevo
+Q:What is the capital of Botswana?
+A:Gaborone
+Q:What is the capital of Brazil?
+A:Brasilia
+Q:What is the capital of Brunei:
+A:Bandar Seri Begawan
+A:bandarseribegawan
+Q:What is the capital of Bulgaria?
+A:Sofia
+Q:What is the capital of Burkina Faso?
+A:Ouagadougou
+Q:What is the capital of Burundi?
+A:Gitega
+Q:What is the capital of Cabo Verde?
+A:Praia
+Q:What is the capital of Cambodia?
+A:Phnom Penh
+Q:What is the capital of Cameroon?
+A:Yaoundé
+A:yaounde
+Q:What is the capital of Canada?
+A:Ottawa
+Q:What is the capital of Central African Republic?
+A:Bangui
+Q:What is the capital of Chad?
+A:N'Djamena
+A:ndjamena
+A:n djamena
+Q:What is the capital of Chile?
+A:Santiago
+Q:What is the capital of China?
+A:Beijing
+Q:What is the capital of Colombia?
+A:Bogotá
+A:Bogota
+Q:What is the capital of Comoros?
+A:Moroni
+Q:What is the capital of Costa Rica:
+A:San Jose
+A:Sanjose
+Q:What is the capital of Cote d'Ivoire?
+A:Yamoussoukro
+Q:What is the capital of Croatia?
+A:Zagreb
+Q:What is the capital of Cuba?
+A:Havana
+Q:What is the capital of Cyprus?
+A:Nicosia
+Q:What is the capital of Czech Republic?
+A:Prague
+Q:What is the capital of Denmark?
+A:Copenhagen
+Q:What is the capital of Djibouti?
+A:Djibouti
+Q:What is the capital of Dominica?
+A:Roseau
+Q:What is the capital of Dominican Republic?
+A:Santo Domingo
+A:santodomingo
+Q:What is the capital of Ecuador?
+A:Quito
+Q:What is the capital of Egypt?
+A:Cairo
+Q:What is the capital of El Salvador?
+A:San Salvador
+A:sansalvador
+Q:What is the capital of Equatorial Guinea?
+A:Malabo
+Q:What is the capital of Eritrea?
+A:Asmara
+Q:What is the capital of Estonia?
+A:Tallinn
+Q:What is the capital of eSwatini (Swaziland)?
+A:Mbabane
+Q:What is the capital of Ethiopia?
+A:Addis Ababa
+A:addisababa
+Q:What is the capital of Fiji?
+A:Suva
+Q:What is the capital of Finland?
+A:Helsinki
+Q:What is the capital of France?
+A:Paris
+Q:What is the capital of Gabon?
+A:Libreville
+Q:What is the capital of Gambia?
+A:Banjul
+Q:What is the capital of Georgia?
+A:Tbilisi
+Q:What is the capital of Germany?
+A:Berlin
+Q:What is the capital of Ghana?
+A:Accra
+Q:What is the capital of Greece?
+A:Athens
+Q:What is the capital of Grenada?
+A:St. George's
+A:st georges
+A:st george's
+A:st.george's
+A:stgeorges
+A:stgeorge's
+Q:What is the capital of Guatemala?
+A:Guatemala City
+Q:What is the capital of Guinea-Bissau?
+A:Bissau
+Q:What is the capital of Guinea?
+A:Conakry
+Q:What is the capital of Guyana?
+A:Georgetown
+Q:What is the capital of Haiti?
+A:Port-au-Prince
+A:port au prince
+A:portauprince
+Q:What is the capital of Honduras?
+A:Tegucigalpa
+Q:What is the capital of Hungary?
+A:Budapest
+Q:What is the capital of Iceland?
+A:Reykjavik
+Q:What is the capital of India?
+A:New Delhi
+A:newdelhi
+Q:What is the capital of Indonesia?
+A:Jakarta
+Q:What is the capital of Iran?
+A:Tehran
+Q:What is the capital of Iraq?
+A:Baghdad
+Q:What is the capital of Ireland?
+A:Dublin
+Q:What is the capital of Israel?
+A:Jerusalem
+Q:What is the capital of Italy?
+A:Rome
+Q:What is the capital of Jamaica?
+A:Kingston
+Q:What is the capital of Japan?
+A:Tokyo
+Q:What is the capital of Jordan?
+A:Amman
+Q:What is the capital of Kazakhstan?
+A:Astana
+Q:What is the capital of Kenya?
+A:Nairobi
+Q:What is the capital of Kiribati?
+A:South Tarawa
+A:southtarawa
+Q:What is the capital of Kosovo?
+A:Pristina
+Q:What is the capital of Kuwait?
+A:Kuwait City
+A:kuwaitcity
+Q:What is the capital of Kyrgyzstan?
+A:Bishkek
+Q:What is the capital of Laos?
+A:Vientiane
+Q:What is the capital of Latvia?
+A:Riga
+Q:What is the capital of Lebanon?
+A:Beirut
+Q:What is the capital of Lesotho?
+A:Maseru
+Q:What is the capital of Liberia?
+A:Monrovia
+Q:What is the capital of Libya?
+A:Tripoli
+Q:What is the capital of Liechtenstein?
+A:Vaduz
+Q:What is the capital of Lithuania?
+A:Vilnius
+Q:What is the capital of Luxembourg?
+A:Luxembourg
+Q:What is the capital of Madagascar?
+A:Antananarivo
+Q:What is the capital of Malawi?
+A:Lilongwe
+Q:What is the capital of Malaysia?
+A:Kuala Lumpur
+A:kualalumpur
+Q:What is the capital of Maldives?
+A:Male
+Q:What is the capital of Mali?
+A:Bamako
+Q:What is the capital of Malta?
+A:Valletta
+Q:What is the capital of Mauritania?
+A:Nouakchott
+Q:What is the capital of Mauritius?
+A:Port Louis
+A:portlouis
+Q:What is the capital of Mexico?
+A:Mexico City
+A:mexicocity
+Q:What is the capital of Micronesia?
+A:Palikir
+Q:What is the capital of Moldova?
+A:Chisinau
+Q:What is the capital of Monaco?
+A:Monaco
+Q:What is the capital of Mongolia?
+A:Ulaanbaatar
+Q:What is the capital of Montenegro?
+A:Podgorica
+Q:What is the capital of Morocco?
+A:Rabat
+Q:What is the capital of Mozambique?
+A:Maputo
+Q:What is the capital of Myanmar (Burma)?
+A:Naypyidaw
+Q:What is the capital of Namibia?
+A:Windhoek
+Q:What is the capital of Nauru?
+A:Yaren District
+A:yarendistrict
+Q:What is the capital of Nepal?
+A:Kathmandu
+Q:What is the capital of New Zealand?
+A:Wellington
+Q:What is the capital of Nicaragua?
+A:Managua
+Q:What is the capital of Niger?
+A:Niamey
+Q:What is the capital of Nigeria?
+A:Abuja
+Q:What is the capital of North Korea?
+A:Pyongyang
+A:pyong yang
+Q:What is the capital of North Macedonia?
+A:Skopje
+Q:What is the capital of Norway?
+A:Oslo
+Q:What is the capital of Oman?
+A:Muscat
+Q:What is the capital of Pakistan?
+A:Islamabad
+Q:What is the capital of Palau?
+A:Ngerulmud
+Q:What is the capital of Palestine?
+A:Ramallah
+Q:What is the capital of Panama?
+A:Panama City
+A:panamacity
+Q:What is the capital of Papua New Guinea?
+A:Port Moresby
+A:portmoresby
+Q:What is the capital of Paraguay?
+A:Asunción
+A:asuncion
+Q:What is the capital of Peru?
+A:Lima
+Q:What is the capital of Philippines?
+A:Manila
+Q:What is the capital of Poland?
+A:Warsaw
+Q:What is the capital of Portugal?
+A:Lisbon
+Q:What is the capital of Qatar?
+A:Doha
+Q:What is the capital of Romania?
+A:Bucharest
+Q:What is the capital of Russia?
+A:Moscow
+Q:What is the capital of Rwanda?
+A:Kigali
+Q:What is the capital of Saint Kitts and Nevis?
+A:Basseterre
+Q:What is the capital of Saint Lucia?
+A:Castries
+Q:What is the capital of Saint Vincent and the Grenadines?
+A:Kingstown
+Q:What is the capital of Samoa?
+A:Apia
+Q:What is the capital of San Marino?
+A:San Marino
+A:sanmarino
+Q:What is the capital of São Tomé and Príncipe?
+A:São Tomé
+A:sao tome
+A:saotome
+Q:What is the capital of Saudi Arabia?
+A:Riyadh
+Q:What is the capital of Senegal?
+A:Dakar
+Q:What is the capital of Serbia?
+A:Belgrade
+Q:What is the capital of Seychelles?
+A:Victoria
+Q:What is the capital of Sierra Leone?
+A:Freetown
+Q:What is the capital of Singapore?
+A:Singapore
+Q:What is the capital of Slovakia?
+A:Bratislava
+Q:What is the capital of Slovenia?
+A:Ljubljana
+Q:What is the capital of Solomon Islands?
+A:Honiara
+Q:What is the capital of Somalia?
+A:Mogadishu
+Q:What is the capital of South Korea?
+A:Seoul
+Q:What is the capital of South Sudan?
+A:Juba
+Q:What is the capital of Spain?
+A:Madrid
+Q:What is the capital of Sri Lanka?
+A:Sri Jayawardenepura Kotte
+A:srijawawardenpurakotte
+A:Kotte
+Q:What is the capital of Sudan?
+A:Khartoum
+Q:What is the capital of Suriname?
+A:Paramaribo
+Q:What is the capital of Sweden?
+A:Stockholm
+Q:What is the capital of Switzerland?
+A:Bern
+Q:What is the capital of Syria?
+A:Damascus
+Q:What is the capital of Taiwan?
+A:Taipei
+Q:What is the capital of Tajikistan?
+A:Dushanbe
+Q:What is the capital of Tanzania?
+A:Dodoma
+Q:What is the capital of Thailand?
+A:Bangkok
+Q:What is the capital of Timor-Leste?
+A:Dili
+Q:What is the capital of Togo?
+A:Lomé
+A:lome
+Q:What is the capital of Tonga?
+A:Nuku'alofa
+A:nukualofa
+Q:What is the capital of Trinidad and Tobago?
+A:Port of Spain
+A:portofspain
+Q:What is the capital of Tunisia?
+A:Tunis
+Q:What is the capital of Turkey?
+A:Ankara
+Q:What is the capital of Turkmenistan?
+A:Ashgabat
+Q:What is the capital of Tuvalu?
+A:Funafuti
+Q:What is the capital of Uganda?
+A:Kampala
+Q:What is the capital of Ukraine?
+A:Kyiv
+Q:What is the capital of United Arab Emirates?
+A:Abu Dhabi
+A:abudhabi
+Q:What is the capital of Uruguay?
+A:Montevideo
+Q:What is the capital of Uzbekistan?
+A:Tashkent
+Q:What is the capital of Vanuatu?
+A:Port Vila
+A:portvila
+Q:What is the capital of Venezuela?
+A:Caracas
+Q:What is the capital of Vietnam?
+A:Hanoi
+Q:What is the capital of Yemen?
+A:Sana'a
+A:sanaa
+A:sana a
+Q:What is the capital of Zambia?
+A:Lusaka
+Q:What is the capital of Zimbabwe?
+A:Harare
+Q:What is the capital of the Democratic Republic of the Congo?
+A:Kinshasa
+Q:What is the capital of the Marshall Islands?
+A:Majuro
+Q:What is the capital of the Netherlands?
+A:Amsterdam
+Q:What is the capital of the Republic of the Congo?
+A:Brazzaville
+Q:What is the capital of the United Kingdom?
+A:London
+Q:What is the capital of the United States of America?
+A:Washington, D.C.
+A:washingtondc
+A:washington dc
+A:washington d.c.
+A:washington, dc
+A:washington,d.c.
+A:washington,dc
+A:washingtond.c.
+Q:What is the capital of the Vatican City (Holy See)?
+A:Vatican City
+A:vatican city

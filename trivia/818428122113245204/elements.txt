@@ -1,0 +1,237 @@
+AUTHOR: Mamalus
+Q:What is the element symbol of "Actinium"?
+A:Ac
+Q:What is the element symbol of "Aluminum"?
+A:Al
+Q:What is the element symbol of "Americium"?
+A:Am
+Q:What is the element symbol of "Antimony"?
+A:Sb
+Q:What is the element symbol of "Argon"?
+A:Ar
+Q:What is the element symbol of "Arsenic"?
+A:As
+Q:What is the element symbol of "Astatine"?
+A:At
+Q:What is the element symbol of "Barium"?
+A:Ba
+Q:What is the element symbol of "Berkelium"?
+A:Bk
+Q:What is the element symbol of "Berylium"?
+A:Be
+Q:What is the element symbol of "Bismuth"?
+A:Bi
+Q:What is the element symbol of "Bohrium"?
+A:Bh
+Q:What is the element symbol of "Boron"?
+A:B
+Q:What is the element symbol of "Bromine"?
+A:Br
+Q:What is the element symbol of "Cadmium"?
+A:Cd
+Q:What is the element symbol of "Calcium"?
+A:Ca
+Q:What is the element symbol of "Califormium"?
+A:Cf
+Q:What is the element symbol of "Carbon"?
+A:C
+Q:What is the element symbol of "Cerium"?
+A:Ce
+Q:What is the element symbol of "Cesium"?
+A:Cs
+Q:What is the element symbol of "Chlorine"?
+A:Cl
+Q:What is the element symbol of "Chromium"?
+A:Cr
+Q:What is the element symbol of "Cobalt"?
+A:Co
+Q:What is the element symbol of "Copernicium"?
+A:Cn
+Q:What is the element symbol of "Copper"?
+A:Cu
+Q:What is the element symbol of "Curium"?
+A:Cm
+Q:What is the element symbol of "Darmstadtium"?
+A:Ds
+Q:What is the element symbol of "Dubnium"?
+A:Db
+Q:What is the element symbol of "Dysprosium"?
+A:Dy
+Q:What is the element symbol of "Einsteinium"?
+A:Es
+Q:What is the element symbol of "Erbium"?
+A:Er
+Q:What is the element symbol of "Europium"?
+A:Eu
+Q:What is the element symbol of "Fermium"?
+A:Fm
+Q:What is the element symbol of "Flerovium"?
+A:Fl
+Q:What is the element symbol of "Fluorine"?
+A:F
+Q:What is the element symbol of "Francium"?
+A:Fr
+Q:What is the element symbol of "Gadolinium"?
+A:Gd
+Q:What is the element symbol of "Gallium"?
+A:Ga
+Q:What is the element symbol of "Germanium"?
+A:Ge
+Q:What is the element symbol of "Gold"?
+A:Au
+Q:What is the element symbol of "Hafnium"?
+A:Hf
+Q:What is the element symbol of "Hassium"?
+A:Hs
+Q:What is the element symbol of "Helium"?
+A:He
+Q:What is the element symbol of "Holmium"?
+A:Ho
+Q:What is the element symbol of "Hydrogen"?
+A:H
+Q:What is the element symbol of "Indium"?
+A:In
+Q:What is the element symbol of "Iodine"?
+A:I
+Q:What is the element symbol of "Iridium"?
+A:Ir
+Q:What is the element symbol of "Iron"?
+A:Fe
+Q:What is the element symbol of "Krypton"?
+A:Kr
+Q:What is the element symbol of "Lanthanum"?
+A:La
+Q:What is the element symbol of "Lawrencium"?
+A:Lr
+Q:What is the element symbol of "Lead"?
+A:Pb
+Q:What is the element symbol of "Lithium"?
+A:Li
+Q:What is the element symbol of "Livermorium"?
+A:Lv
+Q:What is the element symbol of "Lutetium"?
+A:Lu
+Q:What is the element symbol of "Magnesium"?
+A:Mg
+Q:What is the element symbol of "Manganese"?
+A:Mn
+Q:What is the element symbol of "Meitnerium"?
+A:Mt
+Q:What is the element symbol of "Mendelevium"?
+A:Md
+Q:What is the element symbol of "Mercury"?
+A:Hg
+Q:What is the element symbol of "Molybdenum"?
+A:Mo
+Q:What is the element symbol of "Moscovium"?
+A:Mc
+Q:What is the element symbol of "Neodymium"?
+A:Nd
+Q:What is the element symbol of "Neon"?
+A:Ne
+Q:What is the element symbol of "Neptunium"?
+A:Np
+Q:What is the element symbol of "Nickel"?
+A:Ni
+Q:What is the element symbol of "Nihonium"?
+A:Nh
+Q:What is the element symbol of "Niobium"?
+A:Nb
+Q:What is the element symbol of "Nitrogen"?
+A:N
+Q:What is the element symbol of "Nobelium"?
+A:"No"
+Q:What is the element symbol of "Oganesson"?
+A:Og
+Q:What is the element symbol of "Osmium"?
+A:Os
+Q:What is the element symbol of "Oxygen"?
+A:O
+Q:What is the element symbol of "Palladium"?
+A:Pd
+Q:What is the element symbol of "Phosphorus"?
+A:P
+Q:What is the element symbol of "Platinum"?
+A:Pt
+Q:What is the element symbol of "Plutonium"?
+A:Pu
+Q:What is the element symbol of "Polonium"?
+A:Po
+Q:What is the element symbol of "Potassium"?
+A:K
+Q:What is the element symbol of "Praseodymium"?
+A:Pr
+Q:What is the element symbol of "Promethium"?
+A:Pm
+Q:What is the element symbol of "Protactinium"?
+A:Pa
+Q:What is the element symbol of "Radium"?
+A:Ra
+Q:What is the element symbol of "Radon"?
+A:Rn
+Q:What is the element symbol of "Rhenium"?
+A:Re
+Q:What is the element symbol of "Rhodium"?
+A:Rh
+Q:What is the element symbol of "Roentgnium"?
+A:Rg
+Q:What is the element symbol of "Rubidium"?
+A:Rb
+Q:What is the element symbol of "Ruthenium"?
+A:Ru
+Q:What is the element symbol of "Rutherfordium"?
+A:Rf
+Q:What is the element symbol of "Samarium"?
+A:Sm
+Q:What is the element symbol of "Scandium"?
+A:Sc
+Q:What is the element symbol of "Seaborgium"?
+A:Sg
+Q:What is the element symbol of "Selenium"?
+A:Se
+Q:What is the element symbol of "Silicon"?
+A:Si
+Q:What is the element symbol of "Silver"?
+A:Ag
+Q:What is the element symbol of "Sodium"?
+A:Na
+Q:What is the element symbol of "Strontium"?
+A:Sr
+Q:What is the element symbol of "Sulfur"?
+A:S
+Q:What is the element symbol of "Tantalum"?
+A:Ta
+Q:What is the element symbol of "Technetium"?
+A:Tc
+Q:What is the element symbol of "Tellurium"?
+A:Te
+Q:What is the element symbol of "Tennessine"?
+A:Ts
+Q:What is the element symbol of "Terbium"?
+A:Tb
+Q:What is the element symbol of "Thallium"?
+A:Tl
+Q:What is the element symbol of "Thorium"?
+A:Th
+Q:What is the element symbol of "Thulium"?
+A:Tm
+Q:What is the element symbol of "Tin"?
+A:Sn
+Q:What is the element symbol of "Titanium"?
+A:Ti
+Q:What is the element symbol of "Tungsten"?
+A:W
+Q:What is the element symbol of "Uranium"?
+A:U
+Q:What is the element symbol of "Vanadium"?
+A:V
+Q:What is the element symbol of "Xenon"?
+A:Xe
+Q:What is the element symbol of "Ytterbium"?
+A:Yb
+Q:What is the element symbol of "Yttrium"?
+A:Y
+Q:What is the element symbol of "Zinc"?
+A:Zn
+Q:What is the element symbol of "Zirconium"?
+A:Zr

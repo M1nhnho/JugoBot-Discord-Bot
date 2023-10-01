@@ -1,0 +1,2836 @@
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnoldY
+A:Bulbasaur
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5sYN
+A:Ivysaur
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnooXc
+A:Mega Venusaur
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5xf3
+A:Venusaur
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnospU
+A:Charmander
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnotKu
+A:Charmeleon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CkUgeW
+A:Mega Charizard X
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn7vMh
+A:Mega Charizard Y
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5AYh
+A:Charizard
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp2XoQ
+A:Squirtle
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7hEB
+A:Wartortle
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5DmV
+A:Mega Blastoise
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn6Z0U
+A:Blastoise
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClqN4K
+A:Caterpie
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1Ci8
+A:Metapod
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClJeX4
+A:Butterfree
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5K1P
+A:Weedle
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5L5T
+A:Kakuna
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp3040
+A:Mega Beedrill
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5Pm9
+A:Beedrill
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn6ZxW
+A:Pidgey
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5QGJ
+A:Pidgeotto
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnpJgD
+A:Mega Pidgeot
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm3iIM
+A:Pidgeot
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn6yn3
+A:Alolan Rattata
+A:Rattata Alola
+A:Rattata Alolan
+A:Rattata-A
+A:Rattata A
+Q:Who's that Pokemon?
+I:http://bit.ly/2CodSPx
+A:Rattata
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5UWZ
+A:Alolan Raticate
+A:Raticate Alola
+A:Raticate Alolan
+A:Raticate-A
+A:Raticate A
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp30Ry
+A:Raticate
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1pvi
+A:Spearow
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm3jMQ
+A:Fearow
+Q:Who's that Pokemon?
+I:http://bit.ly/2CodT63
+A:Ekans
+Q:Who's that Pokemon?
+I:http://bit.ly/2CodUqD
+A:Arbok
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoF6VZ
+A:Pikachu Belle
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7jwd
+A:Pikachu Libre
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn7x6R
+A:Pikachu PhD
+A:Pikachu Ph.D
+A:Pikachu Ph D
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnA2kL
+A:Pikachu Pop Star
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1W0c
+A:Pikachu Rock Star
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnoD4y
+A:Pikachu
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnvpHx
+A:Alolan Raichu
+A:Raichu Alola
+A:Raichu Alolan
+A:Raichu-A
+A:Raichu A
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cr3jLk
+A:Raichu
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnDUCm
+A:Sandshrew
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp32sE
+A:Alolan Sandslash
+A:Sandslash Alola
+A:Sandslash Alolan
+A:Sandslash-A
+A:Sandslash A
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqclZp
+A:Sandslash
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cps8HU
+A:Nidoran F
+A:Nidoran Female
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cps7DQ
+A:Nidorina
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClJhlI
+A:Nidoqueen
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm3kQU
+A:Nidoran M
+A:Nidoran Male
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnpLoL
+A:Nidorino
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp32Ja
+A:Nidoking
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnpNwT
+A:Clefairy
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoFeor
+A:Clefable
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7lnP
+A:Vulpix
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn744I
+A:Alolan Ninetales
+A:Ninetales Alola
+A:Ninetales Alolan
+A:Ninetales-A
+A:Ninetales A
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnvsDd
+A:Ninetales
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnvsTJ
+A:Jigglypuff
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnDVWW
+A:Wigglytuff
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn6C6h
+A:Zubat
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnoEFE
+A:Golbat
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1H5q
+A:Oddish
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1ZsU
+A:Gloom
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1FdO
+A:Vileplume
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm614R
+A:Paras
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClJhSK
+A:Parasect
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1ZJq
+A:Venonat
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1rTW
+A:Venomoth
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7kQN
+A:Alolan Diglett
+A:Diglett Alola
+A:Diglett Alolan
+A:Diglett-A
+A:Diglett A
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp35ok
+A:Diglett
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnDYlA
+A:Alolan Dugtrio
+A:Dugtrio Alola
+A:Dugtrio Alolan
+A:Dugtrio-A
+A:Dugtrio A
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClqRS2
+A:Dugtrio
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp35EQ
+A:Meowth
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnDYC6
+A:Alolan Persian
+A:Persian Alola
+A:Persian Alolan
+A:Persian-A
+A:Persian A
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cpsaj0
+A:Persian
+Q:Who's that Pokemon?
+I:http://bit.ly/2CodYXp
+A:Psyduck
+Q:Who's that Pokemon?
+I:http://bit.ly/2CjYFPv
+A:Golduck
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnDZ98
+A:Mankey
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnA7F5
+A:Primeape
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnA9Nd
+A:Growlithe
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAbVl
+A:Arcanine
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAeAv
+A:Poliwag
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqcoV5
+A:Poliwhirl
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoFfZx
+A:Poliwrath
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm64xz
+A:Abra
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAiQL
+A:Kadabra
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1IX2
+A:Mega Alakazam
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAm2X
+A:Alakazam
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm65BD
+A:Machop
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAoI7
+A:Machoke
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnArUj
+A:Machamp
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAvU3
+A:Bellsprout
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm6dkB
+A:Weepinbell
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAzmL
+A:Victreebel
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm6hAR
+A:Tentacool
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm6jst
+A:Tentacruel
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnDZWG
+A:Alolan Geodude
+A:Geodude Alola
+A:Geodude Alolan
+A:Geodude-A
+A:Geodude A
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAHCL
+A:Geodude
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAIGP
+A:Alolan Graveler
+A:Graveler Alola
+A:Graveler Alolan
+A:Graveler-A
+A:Graveler A
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7pE5
+A:Graveler
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnvvPp
+A:Alolan Golem
+A:Golem Alola
+A:Golem Alolan
+A:Golem-A
+A:Golem A
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm3pnG
+A:Golem
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqcpZ9
+A:Ponyta
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cnvw5V
+A:Rapidash
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnE1xM
+A:Slowpoke
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnoIVU
+A:Mega Slowbro
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnELmy
+A:Slowbro
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnE7Wa
+A:Magnemite
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEP5M
+A:Magneton
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEeB4
+A:Farfetch'd
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEksq
+A:Doduo
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn7GHr
+A:Dodrio
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnErnQ
+A:Seel
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn7Mih
+A:Dewgong
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEzDQ
+A:Grimer
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnECQ2
+A:Muk
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn7WWV
+A:Shellder
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEHDk
+A:Cloyster
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEIHo
+A:Gastly
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn85tr
+A:Haunter
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm6kN3
+A:Mega Gengar
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn89cF
+A:Gengar
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnETm2
+A:Onix
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEW1c
+A:Drowzee
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn8dZX
+A:Hypno
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn8ewZ
+A:Krabby
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn8fB3
+A:Kingler
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cr3rui
+A:Voltorb
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEZKq
+A:Electrode
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cr3w14
+A:Exeggcute
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cr3xSG
+A:Alolan Exeggutor
+A:Exeggutor Alola
+A:Exeggutor Alolan
+A:Exeggutor-A
+A:Exeggutor A
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoixB5
+A:Exeggutor
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1Ndi
+A:Cubone
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cr3GFI
+A:Alolan Marowak
+A:Marowak Alola
+A:Marowak Alolan
+A:Marowak-A
+A:Marowak A
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1SO8
+A:Marowak
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn79W4
+A:Hitmonlee
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAU91
+A:Hitmonchan
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn22oI
+A:Lickitung
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn25ko
+A:Koffing
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn28g4
+A:Weezing
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn1wHe
+A:Rhyhorn
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn2d3m
+A:Rhydon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn2hQE
+A:Chansey
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cr3Lt0
+A:Tangela
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnpT7J
+A:Mega Kangaskhan
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpseiK
+A:Kangaskhan
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn2uTW
+A:Horsea
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnpTof
+A:Seadra
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm3rMk
+A:Goldeen
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp80FP
+A:Seaking
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7APL
+A:Staryu
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7CqR
+A:Starmie
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqcsEj
+A:Mr. Mime
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7EyZ
+A:Scyther
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp80Wl
+A:Jynx
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7HLb
+A:Electabuzz
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp83Bv
+A:Magmar
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp84Fz
+A:Mega Pinsir
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7LdT
+A:Pinsir
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp86xb
+A:Tauros
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7Nm1
+A:Magikarp
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7NT3
+A:Mega Gyarados
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8bAZ
+A:Gyarados
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7TtT
+A:Lapras
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8dc5
+A:Ditto
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7Vlv
+A:Eevee
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp7Y0F
+A:Vaporeon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8iMV
+A:Jolteon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cr3Mx4
+A:Flareon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8lIB
+A:Porygon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqcsUP
+A:Omanyte
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn8kol
+A:Omastar
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8onL
+A:Kabuto
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClqZ3Y
+A:Kabutops
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8qvT
+A:Mega Aerodactyl
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8vjb
+A:Aerodactyl
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8wUh
+A:Snorlax
+Q:Who's that Pokemon?
+I:http://bit.ly/2Clr3Rg
+A:Articuno
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8xYl
+A:Zapdos
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8z2p
+A:Moltres
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8AU1
+A:Dratini
+Q:Who's that Pokemon?
+I:http://bit.ly/2CjYKCN
+A:Dragonair
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn2y68
+A:Dragonite
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cn7cRK
+A:Mega Mewtwo X
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp8DPH
+A:Mega Mewtwo Y
+Q:Who's that Pokemon?
+I:http://bit.ly/2PCzg7i
+A:Mewtwo
+Q:Who's that Pokemon?
+I:http://bit.ly/2yKmJHS
+A:Mew
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtxTLH
+A:Chikorita
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz2G9V
+A:Bayleef
+Q:Who's that Pokemon?
+I:http://bit.ly/2OseYAW
+A:Meganium
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oru9dA
+A:Cyndaquil
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvMbeY
+A:Quilava
+Q:Who's that Pokemon?
+I:http://bit.ly/2Osf8s2
+A:Typhlosion
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxcTDO
+A:Totodile
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow5vJ0
+A:Croconaw
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyvD69
+A:Feraligatr
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvMcj2
+A:Sentret
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ozb3CE
+A:Furret
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oty4GR
+A:Hoothoot
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuQ2bT
+A:Noctowl
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxSgHK
+A:Ledyba
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtyWLQ
+A:Ledian
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuZz2Q
+A:Spinarak
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsXmos
+A:Ariados
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ozb6hO
+A:Crobat
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvMeaE
+A:Chinchou
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz2Tdd
+A:Lanturn
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuZADW
+A:Pichu
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtyMEe
+A:Cleffa
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsXnJ2
+A:Igglybuff
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oty7m1
+A:Togepi
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsH9Qi
+A:Togetic
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ozb8Gs
+A:Natu
+Q:Who's that Pokemon?
+I:http://bit.ly/2Orufls
+A:Xatu
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxYh7l
+A:Mareep
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oti47Z
+A:Flaaffy
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtDnWJ
+A:Mega Ampharos
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsXqoc
+A:Ampharos
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtDpOl
+A:Bellossom
+Q:Who's that Pokemon?
+I:http://bit.ly/2Osh1oJ
+A:Marill
+Q:Who's that Pokemon?
+I:http://bit.ly/2Os5lCl
+A:Azumarill
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwsSCb
+A:Sudowoodo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtDqln
+A:Politoed
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwGugw
+A:Hoppip
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwGqNO
+A:Skiploom
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwGBZu
+A:Jumpluff
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtybCh
+A:Aipom
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtybSN
+A:Sunkern
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvMkiw
+A:Sunflora
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwGWeI
+A:Yanma
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxSnDa
+A:Wooper
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwH3qE
+A:Quagsire
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwH65O
+A:Espeon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oxd41W
+A:Umbreon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwHbXa
+A:Murkrow
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvMlmA
+A:Slowking
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsfkHM
+A:Misdreavus
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxSq1O
+A:Unown
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuZIDq
+A:Wobbuffet
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtDtxz
+A:Girafarig
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuQc2Z
+A:Pineco
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwsXpt
+A:Forretress
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwsVxR
+A:Dunsparce
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov3BZ1
+A:Gligar
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oxd95K
+A:Mega Steelix
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvVOtR
+A:Steelix
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvVVFN
+A:Snubbull
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvW0t5
+A:Granbull
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvW4ZR
+A:Qwilfish
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvMqXq
+A:Mega Scizor
+Q:Who's that Pokemon?
+I:http://bit.ly/2OrurRI
+A:Scizor
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov3FYL
+A:Shuckle
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzbiO4
+A:Mega Heracross
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov3EnF
+A:Heracross
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtihrN
+A:Sneasel
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtyJrP
+A:Teddiursa
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwtkAn
+A:Ursaring
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwtqIf
+A:Slugma
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwtuYv
+A:Magcargo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxSw9G
+A:Swinub
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz3dZt
+A:Piloswine
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow5Taq
+A:Corsola
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvWjUL
+A:Remoraid
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oyw3tf
+A:Octillery
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oyw8Nz
+A:Delibird
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtDFwN
+A:Mantine
+Q:Who's that Pokemon?
+I:http://bit.ly/2OywjZf
+A:Skarmory
+Q:Who's that Pokemon?
+I:http://bit.ly/2OywmUV
+A:Houndour
+Q:Who's that Pokemon?
+I:http://bit.ly/2OywqE9
+A:Mega Houndoom
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtikDZ
+A:Houndoom
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oywwvv
+A:Kingdra
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov3Hjl
+A:Phanpy
+Q:Who's that Pokemon?
+I:http://bit.ly/2OywGTD
+A:Donphan
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsXFzC
+A:Porygon2
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov3Inp
+A:Stantler
+Q:Who's that Pokemon?
+I:http://bit.ly/2OshhEd
+A:Smeargle
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwtFTF
+A:Tyrogue
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwHrFC
+A:Hitmontop
+Q:Who's that Pokemon?
+I:http://bit.ly/2OywK5P
+A:Smoochum
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvWK1l
+A:Elekid
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvWNdx
+A:Magby
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxSRcs
+A:Miltank
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oxe8Tu
+A:Blissey
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvMS84
+A:Raikou
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzbHjy
+A:Entei
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzbHA4
+A:Suicune
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzbIUE
+A:Larvitar
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxSUoE
+A:Pupitar
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oyxacp
+A:Mega Tyranitar
+Q:Who's that Pokemon?
+I:http://bit.ly/2Owu1tt
+A:Tyranitar
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtzJfM
+A:Lugia
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsHN0a
+A:Ho-oh
+Q:Who's that Pokemon?
+I:http://bit.ly/2OshEi5
+A:Celebi
+Q:Who's that Pokemon?
+I:http://bit.ly/2OshLdv
+A:Treecko
+Q:Who's that Pokemon?
+I:http://bit.ly/2OshUh3
+A:Grovyle
+Q:Who's that Pokemon?
+I:http://bit.ly/2OruY6a
+A:Mega Sceptile
+Q:Who's that Pokemon?
+I:http://bit.ly/2Osico9
+A:Sceptile
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsisDD
+A:Torchic
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsiDyN
+A:Combusken
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtzdOF
+A:Mega Blaziken
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsiXgZ
+A:Blaziken
+Q:Who's that Pokemon?
+I:http://bit.ly/2Osj3oR
+A:Mudkip
+Q:Who's that Pokemon?
+I:http://bit.ly/2Os5YvH
+A:Marshtomp
+Q:Who's that Pokemon?
+I:http://bit.ly/2Owu5cH
+A:Mega Swampert
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwHX6w
+A:Swampert
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvMYfW
+A:Poochyena
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxSZbW
+A:Mightyena
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtiQlp
+A:Zigzagoon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OrvqBo
+A:Linoone
+Q:Who's that Pokemon?
+I:http://bit.ly/2Os606N
+A:Wurmple
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsYfgM
+A:Silcoon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov0wbq
+A:Beautifly
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsYgRS
+A:Cascoon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtzRfg
+A:Dustox
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwI41W
+A:Lotad
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxT3II
+A:Lombre
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyxkAx
+A:Ludicolo
+Q:Who's that Pokemon?
+I:http://bit.ly/2Os64U5
+A:Seedot
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxemtO
+A:Nuzleaf
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtzmBH
+A:Shiftry
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox2asW
+A:Taillow
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov4von
+A:Swellow
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow6wAO
+A:Wingull
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oyxwjf
+A:Pelipper
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov4IrF
+A:Ralts
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwIhCg
+A:Kirlia
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtETrT
+A:Mega Gardevoir
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtEWE5
+A:Gardevoir
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsjxLH
+A:Surskit
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsjNu9
+A:Masquerain
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvXXWr
+A:Shroomish
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwIoOc
+A:Breloom
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwIxBe
+A:Slakoth
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz4RdB
+A:Vigoroth
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxU8QM
+A:Slaking
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtAci2
+A:Nincada
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxeHN6
+A:Ninjask
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oy08sP
+A:Shedinja
+Q:Who's that Pokemon?
+I:http://bit.ly/2Otjj79
+A:Whismur
+Q:Who's that Pokemon?
+I:http://bit.ly/2OskqE1
+A:Loudred
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyxIPv
+A:Exploud
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvY6ZZ
+A:Makuhita
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsIoPs
+A:Hariyama
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwuFqT
+A:Azurill
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzckcU
+A:Nosepass
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox2Cr8
+A:Skitty
+Q:Who's that Pokemon?
+I:http://bit.ly/2Orw4ii
+A:Delcatty
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtzZex
+A:Mega Sableye
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsYXKY
+A:Sableye
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsItTg
+A:Mega Mawile
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvNB9i
+A:Mawile
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz5bsP
+A:Aron
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox2Heq
+A:Lairon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvxaK9
+A:Mega Aggron
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow7r4e
+A:Aggron
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuRJGh
+A:Meditite
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuRKdj
+A:Mega Medicham
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow82Tw
+A:Medicham
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow8eCe
+A:Electrike
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvNHxG
+A:Mega Manectric
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsgUJI
+A:Manectric
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsZaOg
+A:Plusle
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtAxkO
+A:Minun
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsZbSk
+A:Volbeat
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ovxl8h
+A:Illumise
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzcD7y
+A:Roselia
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtFAkZ
+A:Gulpin
+Q:Who's that Pokemon?
+I:http://bit.ly/2Orwm8S
+A:Swalot
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtG2jb
+A:Carvanha
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsILcO
+A:Mega Sharpedo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvxubP
+A:Sharpedo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxUBCw
+A:Wailmer
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuRVFv
+A:Wailord
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyydJn
+A:Numel
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxfKww
+A:Mega Camerupt
+Q:Who's that Pokemon?
+I:http://bit.ly/2RWNxNO
+A:Camerupt
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsJRVY
+A:Torkoal
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwKCx2
+A:Spoink
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwwtAb
+A:Grumpig
+Q:Who's that Pokemon?
+I:http://bit.ly/2Orxv0a
+A:Spinda
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtCbTw
+A:Trapinch
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwafOO
+A:Vibrava
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtCeia
+A:Flygon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz7nAz
+A:Cacnea
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oy2aZZ
+A:Cacturne
+Q:Who's that Pokemon?
+I:http://bit.ly/2Os9fet
+A:Swablu
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox4Nei
+A:Mega Altaria
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtlDuT
+A:Altaria
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwLiCA
+A:Zangoose
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov3BZ2
+A:Seviper
+Q:Who's that Pokemon?
+I:http://bit.ly/2Os9mqp
+A:Lunatone
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsiDyG
+A:Solrock
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov3DQE
+A:Barboach
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtHL89
+A:Whiscash
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsKcIe
+A:Corphish
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ot3mxu
+A:Crawdaunt
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwwPqv
+A:Baltoy
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwLv8Q
+A:Claydol
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwaHN0
+A:Lileep
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwLzW8
+A:Cradily
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov3PiQ
+A:Anorith
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtCltT
+A:Armaldo
+Q:Who's that Pokemon?
+I:http://bit.ly/2Os9Rkh
+A:Feebas
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz7MTB
+A:Milotic
+Q:Who's that Pokemon?
+I:http://bit.ly/2Otm34r
+A:Castform
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtCPjU
+A:Kecleon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvzH77
+A:Shuppet
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz88tp
+A:Mega Banette
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtmhIP
+A:Banette
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtmA6r
+A:Duskull
+Q:Who's that Pokemon?
+I:http://bit.ly/2Owx4BV
+A:Dusclops
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov4iBC
+A:Tropius
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtmJ9Z
+A:Chimecho
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtI7vv
+A:Mega Absol
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ot48dS
+A:Absol
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyzYWZ
+A:Wynaut
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwM1DO
+A:Snorunt
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxWuz6
+A:Mega Glalie
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow0AHN
+A:Glalie
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov7MUH
+A:Spheal
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtDJwO
+A:Sealeo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsjeAq
+A:Walrein
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsmH21
+A:Clamperl
+Q:Who's that Pokemon?
+I:http://bit.ly/2Osji38
+A:Huntail
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oryq0C
+A:Gorebyss
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwMJ3W
+A:Relicanth
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow0Kin
+A:Luvdisc
+Q:Who's that Pokemon?
+I:http://bit.ly/2Otn50j
+A:Bagon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsaNFj
+A:Shelgon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Orz8uO
+A:Mega Salamence
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwxXKO
+A:Salamence
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvQfvK
+A:Beldum
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov8PnB
+A:Metang
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz9qVh
+A:Mega Metagross
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwxKqX
+A:Metagross
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwNfyU
+A:Regirock
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsN7AG
+A:Regice
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow1eoH
+A:Registeel
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz9PXN
+A:Latias
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnzRGk
+A:Mega Latios
+A:Mega Latias
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAiAs
+A:Latios
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnqNRG
+A:Primal Kyogre
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnBxj6
+A:Kyogre
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5IqW
+A:Primal Groudon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqFtzJ
+A:Groudon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnJZ1I
+A:Mega Rayquaza
+Q:Who's that Pokemon?
+I:http://bit.ly/2CppT7q
+A:Rayquaza
+Q:Who's that Pokemon?
+I:http://bit.ly/2CkkNJz
+A:Jirachi
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnC5Wc
+A:Deoxys Attack
+A:Deoxys-A
+A:Deoxys A
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnZAhF
+A:Deoxys Defense
+A:Deoxys-D
+A:Deoxys D
+Q:Who's that Pokemon?
+I:http://bit.ly/2Coz9IT
+A:Deoxys Speed
+A:Deoxys-S
+A:Deoxys S
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoAm2T
+A:Deoxys
+A:Deoxys Normal
+A:Deoxys N
+A:Deoxys-N
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ckl1jT
+A:Turtwig
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ckl2Et
+A:Grotle
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cnnz0o
+A:Torterra
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cnzdsh
+A:Chimchar
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoDAn5
+A:Monferno
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cmz9cd
+A:Infernape
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoZI0j
+A:Piplup
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnnGZS
+A:Prinplup
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpqGFq
+A:Empoleon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CklBy5
+A:Starly
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ckmhn7
+A:Staravia
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cnqwy1
+A:Staraptor
+Q:Who's that Pokemon?
+I:http://bit.ly/2CknvPf
+A:Bidoof
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm7tV4
+A:Bibarel
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnNNzZ
+A:Kricketot
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnOeu7
+A:Kricketune
+Q:Who's that Pokemon?
+I:http://bit.ly/2Clm6aW
+A:Shinx
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmwXl6
+A:Luxio
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co5LlU
+A:Luxray
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpUX74
+A:Budew
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnW8nl
+A:Roserade
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoKGb9
+A:Cranidos
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpD1JL
+A:Rampardos
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cp5wXF
+A:Shieldon
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClNDct
+A:Bastiodon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm4Z98
+A:Burmy Sandy Cloak
+A:Burmy Sand
+A:Burmy Sandy
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClmfLw
+A:Burmy Trash Cloak
+A:Burmy Trash
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnwxuE
+A:Burmy
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm524O
+A:Wormadam Sandy Cloak
+A:Wormadam Sand
+A:Wormadam Sandy
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnWhHp
+A:Wormadam Trash Cloak
+A:Wormadam Trash
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm53Wq
+A:Wormadam
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm54JY
+A:Mothim
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEvE9
+A:Combee
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpDIml
+A:Vespiquen
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnIm4c
+A:Pachirisu
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co32sD
+A:Buizel
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnJ1mc
+A:Floatzel
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnRhT8
+A:Cherubi
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnPkGf
+A:Cherrim Sunshine
+Q:Who's that Pokemon?
+I:http://bit.ly/2Crw6zo
+A:Cherrim
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmFhBf
+A:Shellos East
+A:Shellos E
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEDU9
+A:Shellos West
+A:Shellos W
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClmwOy
+A:Gastrodon East
+A:Gastrodon E
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnrEle
+A:Gastrodon West
+A:Gastrodon W
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmeAge
+A:Ambipom
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cmf5qC
+A:Drifloon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CkrICx
+A:Drifblim
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnJAwk
+A:Buneary
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqJZ19
+A:Mega Lopunny
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnJTHu
+A:Lopunny
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqKicj
+A:Mismagius
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnrKt6
+A:Honchkrow
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnvHhr
+A:Glameow
+Q:Who's that Pokemon?
+I:http://bit.ly/2CrwyO6
+A:Purugly
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm5qQO
+A:Chingling
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnWNVR
+A:Stunky
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnXdvp
+A:Skuntank
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cnw6R6
+A:Bronzor
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnrR80
+A:Bronzong
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClnqdU
+A:Bonsly
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoKCIv
+A:Mime Jr.
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cpx7IA
+A:Happiny
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnRCoS
+A:Chatot
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClnuKG
+A:Spiritomb
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpHpIJ
+A:Gible
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClRNRD
+A:Gabite
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpHU5z
+A:Mega Garchomp
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnOQQA
+A:Garchomp
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoNuVN
+A:Munchlax
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoNvJl
+A:Riolu
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnAe3y
+A:Mega Lucario
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnVC8S
+A:Lucario
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmHT21
+A:Hippopotas
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmImkN
+A:Hippowdon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmINLX
+A:Skorupi
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmJfd7
+A:Drapion
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnU5zB
+A:Croagunk
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnUnXd
+A:Toxicroak
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnUMcb
+A:Carnivine
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnHw7r
+A:Finneon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnHRqJ
+A:Lumineon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnMxgh
+A:Mantyke
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnIdxy
+A:Snover
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnMS2x
+A:Mega Abomasnow
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cq1Vce
+A:Abomasnow
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co4kUD
+A:Weavile
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co9H67
+A:Magnezone
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co4o6P
+A:Lickilicky
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnSjyA
+A:Rhyperior
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnZEht
+A:Tangrowth
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co087h
+A:Electivire
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpbEz9
+A:Magmortar
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnCyaF
+A:Togekiss
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpbJCX
+A:Yanmega
+Q:Who's that Pokemon?
+I:http://bit.ly/2Coatjx
+A:Leafeon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnBOSU
+A:Glaceon
+Q:Who's that Pokemon?
+I:http://bit.ly/2CkCyZf
+A:Gliscor
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnE2Sk
+A:Mamoswine
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqQsJt
+A:Porygon-Z
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmRi9P
+A:Mega Gallade
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co1xL5
+A:Gallade
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnIJM0
+A:Probopass
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnCojy
+A:Dusknoir
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmfCJ4
+A:Froslass
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnTu0Y
+A:Rotom Fan
+A:Rotom-F
+A:Rotom F
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnCYhf
+A:Rotom Frost
+A:Rotom-F
+A:Rotom F
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpMCQN
+A:Rotom Heat
+A:Rotom-H
+A:Rotom H
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cq3JC2
+A:Rotom Mow
+A:Rotom-M
+A:Rotom M
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnCBTS
+A:Rotom Wash
+A:Rotom-W
+A:Rotom W
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnUqT2
+A:Rotom
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqRHZ9
+A:Uxie
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqRLYT
+A:Mesprit
+Q:Who's that Pokemon?
+I:http://bit.ly/2CrGYxc
+A:Azelf
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnCVC4
+A:Dialga
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpHwE8
+A:Palkia
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnJEvW
+A:Heatran
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpJynK
+A:Regigigas
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClZkjn
+A:Giratina Origin
+A:Giratina-O
+A:Giratina O
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEjVj
+A:Giratina
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnQtO5
+A:Cresselia
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnECiV
+A:Phione
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqTtJN
+A:Manaphy
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnG5Ww
+A:Darkrai
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co3szh
+A:Shaymin Sky
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co69kr
+A:Shaymin
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmpZwy
+A:Arceus
+Q:Who's that Pokemon?
+I:http://bit.ly/2Clv8ES
+A:Victini
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnEAri
+A:Snivy
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpMDnO
+A:Servine
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnFvrL
+A:Serperior
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnELms
+A:Tepig
+Q:Who's that Pokemon?
+I:http://bit.ly/2CkEDEx
+A:Pignite
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cq60NA
+A:Emboar
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co6BiD
+A:Oshawott
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cmqvuu
+A:Dewott
+Q:Who's that Pokemon?
+I:http://bit.ly/2CrK4kO
+A:Samurott
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpPdKw
+A:Patrat
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co1JtQ
+A:Watchog
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoeQv0
+A:Lillipup
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnFzYw
+A:Herdier
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmsFdA
+A:Stoutland
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnSycR
+A:Purrloin
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cq8vzs
+A:Liepard
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpPY6k
+A:Pansage
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnOdq4
+A:Simisage
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cod0dx
+A:Pansear
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmuirI
+A:Simisear
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpfA2T
+A:Panpour
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmureK
+A:Simipour
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnTjmd
+A:Munna
+Q:Who's that Pokemon?
+I:http://bit.ly/2CqWCcz
+A:Musharna
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnP36c
+A:Pidove
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnHigs
+A:Tranquill
+Q:Who's that Pokemon?
+I:http://bit.ly/2CrMAHM
+A:Unfezant
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnYtic
+A:Blitzle
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmvafY
+A:Zebstrika
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClxLGK
+A:Roggenrola
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnTZYN
+A:Boldore
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmWLxn
+A:Gigalith
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnJ5lK
+A:Woobat
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmXkat
+A:Swoobat
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpSV6V
+A:Drilbur
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnPU6U
+A:Excadrill
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cm4RXb
+A:Mega Audino
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnUXEp
+A:Audino
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpRzck
+A:Timburr
+Q:Who's that Pokemon?
+I:http://bit.ly/2Co3HdI
+A:Gurdurr
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnIMHy
+A:Conkeldurr
+Q:Who's that Pokemon?
+I:http://bit.ly/2CkJci9
+A:Tympole
+Q:Who's that Pokemon?
+I:http://bit.ly/2CnZFCc
+A:Palpitoad
+Q:Who's that Pokemon?
+I:http://bit.ly/2CoaWSX
+A:Seismitoad
+Q:Who's that Pokemon?
+I:http://bit.ly/2Cocix1
+A:Throh
+Q:Who's that Pokemon?
+I:http://bit.ly/2ClzpIq
+A:Sawk
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmkwWu
+A:Sewaddle
+Q:Who's that Pokemon?
+I:http://bit.ly/2CmYzXb
+A:Swadloon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtY2Kl
+A:Leavanny
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ou0qAJ
+A:Venipede
+Q:Who's that Pokemon?
+I:http://bit.ly/2OszAJk
+A:Whirlipede
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsEYMF
+A:Scolipede
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ovofbt
+A:Cottonee
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtZ213
+A:Whimsicott
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ou0W1D
+A:Petilil
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwvgJc
+A:Lilligant
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtVHzg
+A:Basculin
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyoBOH
+A:Sandile
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtVQCO
+A:Krokorok
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ot5PYW
+A:Krookodile
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ou1nJj
+A:Darumaka
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oyhg1y
+A:Darmanitan Zen
+A:Darmanitan-Z
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzyVGg
+A:Darmanitan
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwxUyC
+A:Maractus
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvR3Rj
+A:Dwebble
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxnWga
+A:Crustle
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ou0dgZ
+A:Scraggy
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwQfLV
+A:Scrafty
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwiF8D
+A:Sigilyph
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ozuuej
+A:Yamask
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxzRuw
+A:Cofagrigus
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxbVaw
+A:Tirtouga
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwQRkH
+A:Carracosta
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtJYkf
+A:Archen
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsGy13
+A:Archeops
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzuPh5
+A:Trubbish
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwROJN
+A:Garbodor
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtKcb5
+A:Zorua
+Q:Who's that Pokemon?
+I:http://bit.ly/2q0h8sZ
+A:Zoroark
+Q:Who's that Pokemon?
+I:http://bit.ly/2Osxd9r
+A:Minccino
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxdlBS
+A:Cinccino
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwAKDM
+A:Gothita
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwBbOq
+A:Gothorita
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzBRTi
+A:Gothitelle
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyrwqD
+A:Solosis
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtLS4n
+A:Duosion
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsD0f8
+A:Reuniclus
+Q:Who's that Pokemon?
+I:http://bit.ly/2OrTC6G
+A:Ducklett
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtMiYv
+A:Swanna
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxBMiI
+A:Vanillite
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtMqar
+A:Vanillish
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsDvG2
+A:Vanilluxe
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ou4ot7
+A:Deerling
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ou5AwB
+A:Sawsbuck Autumn
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyTtyF
+A:Sawsbuck Summer
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxC2hG
+A:Sawsbuck Winter
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ozx2Jp
+A:Sawsbuck
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvVtaR
+A:Emolga
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwC3CG
+A:Karrablast
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtMSWb
+A:Escavalier
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwUHKD
+A:Foongus
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwloPp
+A:Amoonguss
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ozy9sz
+A:Frillish
+Q:Who's that Pokemon?
+I:http://bit.ly/2OykulG
+A:Jellicent
+Q:Who's that Pokemon?
+I:http://bit.ly/2OrV7Sm
+A:Alomomola
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oym0UU
+A:Joltik
+Q:Who's that Pokemon?
+I:http://bit.ly/2OymdYc
+A:Galvantula
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtbG0m
+A:Ferroseed
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxEZ1K
+A:Ferrothorn
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyvpMf
+A:Klink
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxF9WU
+A:Klang
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ownsa7
+A:Klinklang
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvXILj
+A:Tynamo
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ou93v7
+A:Eelektrik
+Q:Who's that Pokemon?
+I:http://bit.ly/2OywK5J
+A:Eelektross
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxhG88
+A:Elgyem
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwGfCq
+A:Beheeyem
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyXSBH
+A:Litwick
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzHwc0
+A:Lampent
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyxJmr
+A:Chandelure
+Q:Who's that Pokemon?
+I:http://bit.ly/2OrZa10
+A:Axew
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ou9XI1
+A:Fraxure
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyofHO
+A:Haxorus
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyyxYv
+A:Cubchoo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OrZFYW
+A:Beartic
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsNDi9
+A:Cryogonal
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwjfDC
+A:Shelmet
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyzL63
+A:Accelgor
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtR9cb
+A:Stunfisk
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuaGcd
+A:Mienfoo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzIIfu
+A:Mienshao
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzILba
+A:Druddigon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyZbAB
+A:Golett
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ovxpon
+A:Golurk
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxImpq
+A:Pawniard
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyZXxv
+A:Bisharp
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvoW4p
+A:Bouffalant
+Q:Who's that Pokemon?
+I:http://bit.ly/2OucySh
+A:Rufflet
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwkLFO
+A:Braviary
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxIWDC
+A:Vullaby
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ou90Q1
+A:Mandibuzz
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtTzHN
+A:Heatmor
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxJgCk
+A:Durant
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxJvNK
+A:Deino
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwM5DQ
+A:Zweilous
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oxn62Y
+A:Hydreigon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Os3wFo
+A:Larvesta
+Q:Who's that Pokemon?
+I:http://bit.ly/2Os3BsG
+A:Volcarona
+Q:Who's that Pokemon?
+I:http://bit.ly/2OufbU9
+A:Cobalion
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oyt9Ve
+A:Terrakion
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzMRjy
+A:Virizion
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz2h7H
+A:Tornadus Therian
+A:Tornadus T
+A:Tornadus-T
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz2wQ9
+A:Tornadus
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsHTVz
+A:Thundurus Therian
+A:Thundurus T
+A:Thundurs-T
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow4TmJ
+A:Thundurus
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxBvw6
+A:Reshiram
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwnP4M
+A:Zekrom
+Q:Who's that Pokemon?
+I:http://bit.ly/2OubYE9
+A:Landorus Therian
+A:Landorus T
+A:Landorus-T
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxBZSW
+A:Landorus
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oucbap
+A:Kyurem Black
+A:Kyurem B
+A:Kyurem-B
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwwP9N
+A:Kyurem White
+A:Kyurem W
+A:Kyurem-W
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvtIPn
+A:Kyurem
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwPDGa
+A:Keldeo Resolute
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvtTdv
+A:Keldeo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsOW0q
+A:Meloetta Pirouette
+A:Meloetta-P
+A:Meloetta P
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwjvT8
+A:Meloetta
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwlRRX
+A:Genesect
+Q:Who's that Pokemon?
+I:http://bit.ly/2OufezB
+A:Chespin
+Q:Who's that Pokemon?
+I:http://bit.ly/2OskKCy
+A:Quilladin
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oufn67
+A:Chesnaught
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyJKbu
+A:Fennekin
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtRPhq
+A:Braixen
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxnHBZ
+A:Delphox
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ous5BQ
+A:Froakie
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyK7CU
+A:Frogadier
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyWMWv
+A:Greninja
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox5QLw
+A:Bunnelby
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ot51Dk
+A:Diggersby
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ownnn7
+A:Fletchling
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ot5h5g
+A:Fletchinder
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyXQtt
+A:Talonflame
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvSRtq
+A:Scatterbug
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox6zMK
+A:Spewpa
+Q:Who's that Pokemon?
+I:http://bit.ly/2OwNXw7
+A:Vivillon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OugW3Z
+A:Litleo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyLeT6
+A:Pyroar
+Q:Who's that Pokemon?
+I:http://bit.ly/2OAaI2A
+A:Flabebe
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtbYo1
+A:Floette
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtCSfs
+A:Florges
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxTTVE
+A:Skiddo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuhtTx
+A:Gogoat
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzmQ3T
+A:Pancham
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvTTFO
+A:Pangoro
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtE96e
+A:Furfrou
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oxr0cn
+A:Espurr
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyMvtm
+A:Meowstic
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ot7cXw
+A:Honedge
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtV3By
+A:Doublade
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxUQ0a
+A:Aegislash
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyZTOb
+A:Spritzee
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtEPbM
+A:Aromatisse
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxsAuP
+A:Swirlix
+Q:Who's that Pokemon?
+I:http://bit.ly/2OsoX9k
+A:Slurpuff
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz0fEv
+A:Inkay
+Q:Who's that Pokemon?
+I:http://bit.ly/2Osp98y
+A:Malamar
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox8Ozx
+A:Binacle
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvQ7fv
+A:Barbaracle
+Q:Who's that Pokemon?
+I:http://bit.ly/2OBlKVi
+A:Skrelp
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzTfqU
+A:Dragalge
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvFzgt
+A:Clauncher
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov8d1a
+A:Clawitzer
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox9KUz
+A:Helioptile
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ozg3Ha
+A:Heliolisk
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuhTcm
+A:Tyrunt
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox1m7y
+A:Tyrantrum
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuR3AW
+A:Amaura
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oxa3Pd
+A:Aurorus
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyGixx
+A:Sylveon
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox4Rux
+A:Hawlucha
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oui7QK
+A:Dedenne
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvDm4T
+A:Carbink
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzgCRi
+A:Goomy
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvE9CT
+A:Sliggoo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvEkhx
+A:Goodra
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz7Gv8
+A:Klefki
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvRkU5
+A:Phantump
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvEt4z
+A:Trevenant
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvSork
+A:Pumpkaboo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OypTcu
+A:Gourgeist
+Q:Who's that Pokemon?
+I:http://bit.ly/2OAD10R
+A:Bergmite
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oz7X18
+A:Avalugg
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyVQkE
+A:Noibat
+Q:Who's that Pokemon?
+I:http://bit.ly/2OBnbmE
+A:Noivern
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyGZXF
+A:Xerneas
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvGFJ7
+A:Yveltal
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxV2gc
+A:Zygarde
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyqkDE
+A:Mega Diancie
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oupw2B
+A:Diancie
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oupyrf
+A:Hoopa Unbound
+A:Hoopa-U
+A:Hoopa U
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzUINW
+A:Hoopa
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvSMWx
+A:Volcanion
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyWrTq
+A:Rowlet
+Q:Who's that Pokemon?
+I:http://bit.ly/2OBeHM3
+A:Dartrix
+Q:Who's that Pokemon?
+I:http://bit.ly/2OBnOww
+A:Decidueye
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyqQS6
+A:Litten
+Q:Who's that Pokemon?
+I:http://bit.ly/2OukfYK
+A:Torracat
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtEcyO
+A:Incineroar
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvFRUP
+A:Popplio
+Q:Who's that Pokemon?
+I:http://bit.ly/2OBomCA
+A:Brionne
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvTpzE
+A:Primarina
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyXenm
+A:Pikipek
+Q:Who's that Pokemon?
+I:http://bit.ly/2OADYGt
+A:Trumbeak
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyXDWU
+A:Toucannon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvTJ1k
+A:Yungoos
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxVZVO
+A:Gumshoos
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oul7fY
+A:Grubbin
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtEK7Q
+A:Charjabug
+Q:Who's that Pokemon?
+I:http://bit.ly/2OBfZGT
+A:Vikavolt
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvUasd
+A:Crabrawler
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzVvOU
+A:Crabominable
+Q:Who's that Pokemon?
+I:http://bit.ly/2OBgalx
+A:Oricorio Pa'u
+A:Oricorio Pink
+A:Oricorio Psychic
+Q:Who's that Pokemon?
+I:http://bit.ly/2OBpshG
+A:Oricorio Pom-pom
+A:Oricorio Yellow
+A:Oricorio Electric
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox7ixb
+A:Oricorio Sensu
+A:Oricorio Purple
+A:Oricorio Ghost
+Q:Who's that Pokemon?
+I:http://bit.ly/2OysbbA
+A:Oricorio
+A:Oricorio Baile
+A:Oricorio Fire
+A:Oricorio Red
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvUasu
+A:Cutiefly
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxcQIb
+A:Ribombee
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyIrJB
+A:Rockruff
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvUszA
+A:Lycanroc
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox4112
+A:Wishiwashi
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvGNbN
+A:Mareanie
+Q:Who's that Pokemon?
+I:http://bit.ly/2OulYgG
+A:Toxapex
+Q:Who's that Pokemon?
+I:http://bit.ly/2OA9S5R
+A:Mudbray
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxK2PX
+A:Mudsdale
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvUNlz
+A:Dewpider
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtFtWC
+A:Araquanid
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzWazS
+A:Fomantis
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtFvOe
+A:Lurantis
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvUTdc
+A:Morelull
+Q:Who's that Pokemon?
+I:http://bit.ly/2OBhG7d
+A:Shiinotic
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxXrYg
+A:Salandit
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvV0Wa
+A:Salazzle
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxKUUJ
+A:Stufful
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtFJF4
+A:Bewear
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxLGRD
+A:Bounsweet
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ozjwpa
+A:Steenee
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox8e4F
+A:Tsareena
+Q:Who's that Pokemon?
+I:http://bit.ly/2OurJep
+A:Comfey
+Q:Who's that Pokemon?
+I:http://bit.ly/2OumBH4
+A:Oranguru
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oy3YBZ
+A:Passimian
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ouslkd
+A:Wimpod
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvVmMd
+A:Golisopod
+Q:Who's that Pokemon?
+I:http://bit.ly/2OAG49j
+A:Sandygast
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyJqJN
+A:Palossand
+Q:Who's that Pokemon?
+I:http://bit.ly/2OufMFv
+A:Pyukumuku
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox5EvG
+A:Silvally
+Q:Who's that Pokemon?
+I:http://bit.ly/2OumYRY
+A:Minior
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvJppT
+A:Komala
+Q:Who's that Pokemon?
+I:http://bit.ly/2OytC9Y
+A:Turtonator
+Q:Who's that Pokemon?
+I:http://bit.ly/2OAbkVR
+A:Togedemaru
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyZAmc
+A:Mimikyu
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxMki1
+A:Bruxish
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzkwJW
+A:Drampa
+Q:Who's that Pokemon?
+I:http://bit.ly/2Out8Sd
+A:Dhelmise
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyulYK
+A:Jangmo-o
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvIhTp
+A:Hakamo-o
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvVX0p
+A:Kommo-o
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxMy8R
+A:Tapu Koko
+Q:Who's that Pokemon?
+I:http://bit.ly/2OunkYO
+A:Tapu Lele
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ozb3SO
+A:Tapu Bulu
+Q:Who's that Pokemon?
+I:http://bit.ly/2OAH25r
+A:Tapu Fini
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzZZ8c
+A:Cosmog
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ox6qc4
+A:Cosmoem
+Q:Who's that Pokemon?
+I:http://bit.ly/2OtGLAW
+A:Solgaleo
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxezNF
+A:Lunala
+Q:Who's that Pokemon?
+I:http://bit.ly/2OxeCcj
+A:Nihilego
+Q:Who's that Pokemon?
+I:http://bit.ly/2CpIU9z
+A:Buzzwole
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oxk0vT
+A:Pheromosa
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ow5moJ
+A:Xurkitree
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyU6YT
+A:Celesteela
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuyigW
+A:Kartana
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuylcC
+A:Guzzlord
+Q:Who's that Pokemon?
+I:http://bit.ly/2OBuTNl
+A:Necrozma Dawn Wings
+Q:Who's that Pokemon?
+I:http://bit.ly/2OzaxEk
+A:Necrozma Dusk Mane
+Q:Who's that Pokemon?
+I:http://bit.ly/2OAbegU
+A:Ultra Necrozma
+Q:Who's that Pokemon?
+I:http://bit.ly/2OuyyMW
+A:Necrozma
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oxgm5m
+A:Magearna
+Q:Who's that Pokemon?
+I:http://bit.ly/2OyUsPd
+A:Marshadow
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ov6bye
+A:Poipole
+Q:Who's that Pokemon?
+I:http://bit.ly/2OAReuJ
+A:Naganadel
+Q:Who's that Pokemon?
+I:http://bit.ly/2Oxqf2X
+A:Stakataka
+Q:Who's that Pokemon?
+I:http://bit.ly/2Ozp9nc
+A:Blacephalon
+Q:Who's that Pokemon?
+I:http://bit.ly/2OvUY0h
+A:Zeraora

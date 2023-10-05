@@ -5,6 +5,8 @@ Our aim was to create a multi-purpose Discord bot, **JugoBot**, with various fun
 
 ![image](https://github.com/M1nhnho/JugoBot-Discord-Bot/assets/81564712/d0add6c7-6816-4e9b-b2ca-545b9fd9310f)
 
+※ As of October 2023, **JugoBot** is partially outdated so total functionality may not work 100% or may appear slightly incorrect. However, a few fixes have been applied specifically to `trivia` and `charades`.
+
 _Made with Python using discord.py._
 
 ## My Contributions
